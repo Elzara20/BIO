@@ -1,0 +1,85 @@
+Cleaning non-standard residues
+Parsing chain: A
+Parsing chain: B
+Parsing chain: C
+Parsing chain: D
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6QRO.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |291|                                                      44-334|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |35 |                44-78 79-128;172-229 129-171;303-334 230-302|    3.351028|         *|
+3 |73 |                44-78;129-171;303-334 79-128;172-229 230-302|    3.575393|         *|
+2 |73 |                                      44-229;303-334 230-302|    3.790893|        **|
+1 |291|                                                      44-334|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6QRO.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |291|                                                      44-334|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |38 |        44-81 82-128;172-229;271-302 129-171;303-334 230-270|    3.339922|         *|
+3 |41 |        44-81;129-171;303-334 82-128;172-229;271-302 230-270|    3.552497|         *|
+2 |73 |                                      44-229;303-334 230-302|    3.759958|        **|
+1 |291|                                                      44-334|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6QRO.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |291|                                                      44-334|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |38 |        44-81 82-128;172-229;271-302 129-171;303-334 230-270|    3.345312|         *|
+3 |41 |        44-81;129-171;303-334 82-128;172-229;271-302 230-270|    3.554431|         *|
+2 |73 |                                      44-229;303-334 230-302|    3.777004|        **|
+1 |291|                                                      44-334|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6QRO.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |291|                                                      44-334|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |35 |                44-78 79-128;172-229 129-171;303-334 230-302|    3.356498|         *|
+3 |73 |                44-78;129-171;303-334 79-128;172-229 230-302|    3.579520|         *|
+2 |73 |                                      44-229;303-334 230-302|    3.797396|        **|
+1 |291|                                                      44-334|    0.000000|       n/a|
+

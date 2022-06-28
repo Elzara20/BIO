@@ -1,0 +1,532 @@
+Cleaning non-standard residues
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Parsing chain: A
+Parsing chain: B
+Parsing chain: C
+Parsing chain: D
+Parsing chain: E
+Parsing chain: F
+Parsing chain: G
+Parsing chain: H
+Parsing chain: I
+Parsing chain: J
+Parsing chain: K
+Parsing chain: L
+Parsing chain: M
+Parsing chain: N
+Parsing chain: O
+Parsing chain: P
+Parsing chain: Q
+Parsing chain: R
+Parsing chain: S
+Parsing chain: T
+Parsing chain: U
+Parsing chain: V
+Parsing chain: W
+Parsing chain: X
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108927|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391731|        **|
+2 |83 |                                                 4-93 94-176|    3.586652|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108923|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391737|        **|
+2 |83 |                                                 4-93 94-176|    3.586652|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108917|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391728|        **|
+2 |83 |                                                 4-93 94-176|    3.586651|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108950|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391760|        **|
+2 |83 |                                                 4-93 94-176|    3.586670|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108890|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391706|        **|
+2 |83 |                                                 4-93 94-176|    3.586627|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |174|                                                       4-177|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-147 148-177|    3.111018|         *|
+3 |30 |                                         4-93 94-147 148-177|    3.394542|        **|
+2 |84 |                                                 4-93 94-177|    3.585802|       ***|
+1 |174|                                                       4-177|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |174|                                                       4-177|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-147 148-177|    3.109598|         *|
+3 |30 |                                         4-93 94-147 148-177|    3.392635|        **|
+2 |84 |                                                 4-93 94-177|    3.584780|       ***|
+1 |174|                                                       4-177|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108938|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391745|        **|
+2 |83 |                                                 4-93 94-176|    3.586658|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108896|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391705|        **|
+2 |83 |                                                 4-93 94-176|    3.586633|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |174|                                                       4-177|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-147 148-177|    3.110389|         *|
+3 |30 |                                         4-93 94-147 148-177|    3.393704|        **|
+2 |84 |                                                 4-93 94-177|    3.585347|       ***|
+1 |174|                                                       4-177|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108891|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391702|        **|
+2 |83 |                                                 4-93 94-176|    3.586634|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |174|                                                       4-177|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-147 148-177|    3.110838|         *|
+3 |30 |                                         4-93 94-147 148-177|    3.394285|        **|
+2 |84 |                                                 4-93 94-177|    3.585650|       ***|
+1 |174|                                                       4-177|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108937|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391739|        **|
+2 |83 |                                                 4-93 94-176|    3.586655|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108914|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391716|        **|
+2 |83 |                                                 4-93 94-176|    3.586641|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108923|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391739|        **|
+2 |83 |                                                 4-93 94-176|    3.586662|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108934|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391743|        **|
+2 |83 |                                                 4-93 94-176|    3.586660|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108894|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391701|        **|
+2 |83 |                                                 4-93 94-176|    3.586634|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |174|                                                       4-177|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-147 148-177|    3.111191|         *|
+3 |30 |                                         4-93 94-147 148-177|    3.394760|        **|
+2 |84 |                                                 4-93 94-177|    3.585913|       ***|
+1 |174|                                                       4-177|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |174|                                                       4-177|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-147 148-177|    3.110891|         *|
+3 |30 |                                         4-93 94-147 148-177|    3.394376|        **|
+2 |84 |                                                 4-93 94-177|    3.585700|       ***|
+1 |174|                                                       4-177|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108880|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391692|        **|
+2 |83 |                                                 4-93 94-176|    3.586629|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108904|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391721|        **|
+2 |83 |                                                 4-93 94-176|    3.586644|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |174|                                                       4-177|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-147 148-177|    3.110960|         *|
+3 |30 |                                         4-93 94-147 148-177|    3.394457|        **|
+2 |84 |                                                 4-93 94-177|    3.585755|       ***|
+1 |174|                                                       4-177|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |173|                                                       4-176|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-146 147-176|    3.108913|         *|
+3 |30 |                                         4-93 94-146 147-176|    3.391720|        **|
+2 |83 |                                                 4-93 94-176|    3.586657|       ***|
+1 |173|                                                       4-176|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6V21.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |174|                                                       4-177|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   4-63 64-93 94-147 148-177|    3.113323|         *|
+3 |30 |                                         4-93 94-147 148-177|    3.397594|        **|
+2 |84 |                                                 4-93 94-177|    3.587430|       ***|
+1 |174|                                                       4-177|    0.000000|       n/a|
+

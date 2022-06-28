@@ -1,0 +1,64 @@
+Cleaning non-standard residues
+Parsing chain: A
+Parsing chain: B
+Parsing chain: C
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 1JLJ.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |169|                                                      13-181|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |35 |                                13-60 61-103 104-146 147-181|    3.085928|         *|
+3 |43 |                                        13-60 61-103 104-181|    3.266167|         *|
+2 |48 |                                                13-60 61-181|    3.531318|         *|
+1 |169|                                                      13-181|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 1JLJ.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |169|                                                      13-181|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |35 |                                13-60 61-103 104-146 147-181|    3.085089|         *|
+3 |43 |                                        13-60 61-103 104-181|    3.267630|         *|
+2 |48 |                                                13-60 61-181|    3.534000|         *|
+1 |169|                                                      13-181|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 1JLJ.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |169|                                                      13-181|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |35 |                                13-60 61-103 104-146 147-181|    3.085645|         *|
+3 |43 |                                        13-60 61-103 104-181|    3.268254|         *|
+2 |48 |                                                13-60 61-181|    3.535343|         *|
+1 |169|                                                      13-181|    0.000000|       n/a|
+

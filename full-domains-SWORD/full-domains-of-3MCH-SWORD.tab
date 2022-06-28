@@ -1,0 +1,64 @@
+Cleaning non-standard residues
+Parsing chain: A
+Parsing chain: B
+Parsing chain: C
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 3MCH.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |159|                                                       1-159|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   1-33 34-68 69-129 130-159|    2.913734|         *|
+3 |30 |                                         1-68 69-129 130-159|    3.260727|         *|
+2 |68 |                                                 1-68 69-159|    3.525990|         *|
+1 |159|                                                       1-159|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 3MCH.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |163|                                                       1-163|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |21 |                                 1-69 70-112 113-142 143-163|    2.881185|         *|
+3 |21 |                                         1-69 70-142 143-163|    3.167815|         *|
+2 |73 |                                         1-69;143-163 70-142|    3.483843|         *|
+1 |163|                                                       1-163|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 3MCH.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |159|                                                       1-159|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                                   1-33 34-68 69-129 130-159|    2.904037|         *|
+3 |30 |                                         1-68 69-129 130-159|    3.249082|         *|
+2 |68 |                                                 1-68 69-159|    3.520370|         *|
+1 |159|                                                       1-159|    0.000000|       n/a|
+

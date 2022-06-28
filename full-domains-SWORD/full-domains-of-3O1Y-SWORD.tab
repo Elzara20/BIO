@@ -1,0 +1,61 @@
+Cleaning non-standard residues
+Parsing chain: A
+Parsing chain: B
+Parsing chain: C
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 3O1Y.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |104|                                                       1-104|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+3 |33 |                                           1-33 34-68 69-104|    2.962725|         *|
+2 |33 |                                                 1-33 34-104|    3.206289|         *|
+1 |104|                                                       1-104|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 3O1Y.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |104|                                                       1-104|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+3 |33 |                                           1-33 34-68 69-104|    2.967759|         *|
+2 |33 |                                                 1-33 34-104|    3.216168|         *|
+1 |104|                                                       1-104|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 3O1Y.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |104|                                                       1-104|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+3 |33 |                                           1-33 34-68 69-104|    2.971450|         *|
+2 |33 |                                                 1-33 34-104|    3.221229|         *|
+1 |104|                                                       1-104|    0.000000|       n/a|
+

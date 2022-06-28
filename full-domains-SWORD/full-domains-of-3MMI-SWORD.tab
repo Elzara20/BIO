@@ -1,0 +1,45 @@
+Cleaning non-standard residues
+Parsing chain: A
+Parsing chain: B
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 3MMI.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |132|                                         1103-1245 1246-1444|    3.578962|      ****|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+5 |47 |       1103-1169 1170-1245 1246-1292 1293-1363;1430-1444 1364-1429|    3.252390|         *|
+4 |47 |                       1103-1169 1170-1245 1246-1292 1293-1444|    3.336570|        **|
+3 |64 |                               1103-1169 1170-1245 1246-1444|    3.429996|        **|
+2 |132|                                         1103-1245 1246-1444|    3.578962|      ****|
+1 |326|                                                   1103-1444|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 3MMI.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |158|                               1101-1245;1437-1468 1246-1436|    3.608735|      ****|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+5 |47 |       1101-1169;1437-1468 1170-1245 1246-1292 1293-1366 1367-1436|    3.254156|         *|
+4 |47 |               1101-1169;1437-1468 1170-1245 1246-1292 1293-1436|    3.341581|         *|
+3 |69 |                       1101-1169;1437-1468 1170-1245 1246-1436|    3.438661|        **|
+2 |158|                               1101-1245;1437-1468 1246-1436|    3.608735|      ****|
+1 |346|                                                   1101-1468|    0.000000|       n/a|
+

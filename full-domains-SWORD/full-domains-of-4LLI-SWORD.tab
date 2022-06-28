@@ -1,0 +1,45 @@
+Cleaning non-standard residues
+Parsing chain: A
+Parsing chain: B
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4LLI.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |186|                               1461-1616;1826-1855 1617-1825|    3.632278|      ****|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+5 |46 |       1461-1543;1826-1855 1544-1616 1617-1680 1681-1756 1757-1825|    3.246694|         *|
+4 |46 |             1461-1616;1826-1855 1617-1680 1681-1756 1757-1825|    3.319269|         *|
+3 |69 |                     1461-1616;1826-1855 1617-1756 1757-1825|    3.434859|        **|
+2 |186|                               1461-1616;1826-1855 1617-1825|    3.632278|      ****|
+1 |377|                                                   1461-1855|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4LLI.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |184|                               1461-1616;1828-1855 1617-1827|    3.631844|      ****|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+5 |45 |       1461-1543;1828-1855 1544-1616 1617-1711 1712-1756 1757-1827|    3.244317|         *|
+4 |45 |       1461-1543;1828-1855 1544-1616 1617-1711;1757-1827 1712-1756|    3.315092|         *|
+3 |45 |             1461-1616;1828-1855 1617-1711;1757-1827 1712-1756|    3.427692|         *|
+2 |184|                               1461-1616;1828-1855 1617-1827|    3.631844|      ****|
+1 |377|                                                   1461-1855|    0.000000|       n/a|
+

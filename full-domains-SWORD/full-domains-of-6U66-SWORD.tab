@@ -1,0 +1,63 @@
+Cleaning non-standard residues
+Parsing chain: A
+Parsing chain: B
+Parsing chain: C
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6U66.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |136|                                                     109-244|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |19 |                             109-159 160-195 196-225 226-244|    2.364902|         *|
+3 |19 |                                     109-159 160-225 226-244|    2.680505|         *|
+2 |66 |                                     109-159;226-244 160-225|    3.235101|         *|
+1 |136|                                                     109-244|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6U66.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |142|                                                     103-244|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+3 |30 |                                     103-150 151-214 215-244|    2.705909|         *|
+2 |48 |                                             103-150 151-244|    3.162563|         *|
+1 |142|                                                     103-244|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 6U66.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |137|                                                     108-244|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |19 |                             108-160 161-195 196-225 226-244|    2.364213|         *|
+3 |19 |                                     108-160 161-225 226-244|    2.666636|         *|
+2 |65 |                                     108-160;226-244 161-225|    3.222561|         *|
+1 |137|                                                     108-244|    0.000000|       n/a|
+

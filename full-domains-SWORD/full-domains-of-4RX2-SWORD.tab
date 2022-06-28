@@ -1,0 +1,169 @@
+Cleaning non-standard residues
+Parsing chain: A
+Parsing chain: B
+Parsing chain: C
+Parsing chain: D
+Parsing chain: E
+Parsing chain: F
+Parsing chain: G
+Parsing chain: H
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4RX2.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |255|                                                      26-290|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |31 |                        26-71;175-209 72-135 136-166 210-290|    3.375051|         *|
+3 |64 |                                26-71;210-290 72-135 136-209|    3.554562|        **|
+2 |95 |                                        26-71;175-290 72-166|    3.825423|       ***|
+1 |255|                                                      26-290|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4RX2.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |256|                                                      26-290|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                        26-71;175-210 72-137 138-167 211-290|    3.359036|         *|
+3 |66 |                                26-71;211-290 72-137 138-210|    3.551313|         *|
+2 |96 |                                        26-71;175-290 72-167|    3.816970|       ***|
+1 |256|                                                      26-290|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4RX2.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |258|                                                      26-290|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                        26-71;173-210 72-137 138-167 211-290|    3.352231|         *|
+3 |66 |                                26-71;211-290 72-137 138-210|    3.541897|         *|
+2 |96 |                                        26-71;173-290 72-167|    3.813114|       ***|
+1 |258|                                                      26-290|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4RX2.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |256|                                                      26-290|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |30 |                        26-71;175-210 72-137 138-167 211-290|    3.353929|         *|
+3 |66 |                                26-71;211-290 72-137 138-210|    3.547051|         *|
+2 |96 |                                        26-71;175-290 72-167|    3.814113|       ***|
+1 |256|                                                      26-290|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4RX2.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |252|                                                      26-290|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |31 |                        26-71;176-210 72-135 136-166 211-290|    3.354917|         *|
+3 |63 |                                26-71;211-290 72-135 136-210|    3.540425|         *|
+2 |94 |                                        26-71;176-290 72-166|    3.805340|       ***|
+1 |252|                                                      26-290|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4RX2.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |254|                                                      26-290|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |31 |                        26-71;176-210 72-135 136-166 211-290|    3.372175|         *|
+3 |64 |                                26-71;211-290 72-135 136-210|    3.555933|         *|
+2 |95 |                                        26-71;176-290 72-166|    3.823811|       ***|
+1 |254|                                                      26-290|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4RX2.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |252|                                                      26-290|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |31 |                        26-71;177-210 72-135 136-166 211-290|    3.362902|         *|
+3 |64 |                                26-71;211-290 72-135 136-210|    3.551738|         *|
+2 |95 |                                        26-71;177-290 72-166|    3.816469|       ***|
+1 |252|                                                      26-290|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4RX2.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |253|                                                      26-290|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |31 |                        26-71;177-210 72-135 136-166 211-290|    3.372996|         *|
+3 |64 |                                26-71;211-290 72-135 136-210|    3.559252|         *|
+2 |95 |                                        26-71;177-290 72-166|    3.824640|       ***|
+1 |253|                                                      26-290|    0.000000|       n/a|
+

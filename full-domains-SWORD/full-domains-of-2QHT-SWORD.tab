@@ -1,0 +1,22 @@
+Cleaning non-standard residues
+Parsing chain: A
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 2QHT.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |210|                                                       1-210|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |32 |                                   1-42 43-81 82-178 179-210|    3.158616|         *|
+3 |39 |                                           1-42 43-81 82-210|    3.306226|         *|
+2 |39 |                                           1-42;82-210 43-81|    3.509137|        **|
+1 |210|                                                       1-210|    0.000000|       n/a|
+

@@ -1,0 +1,22 @@
+Cleaning non-standard residues
+Parsing chain: A
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4DOU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |399|                                                     108-525|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |63 |                     108-251 252-301;367-386 302-366 391-525|    3.477829|         *|
+3 |128|                                     108-251 252-386 391-525|    3.720766|       ***|
+2 |133|                                             108-386 391-525|    3.822102|       ***|
+1 |399|                                                     108-525|    0.000000|       n/a|
+

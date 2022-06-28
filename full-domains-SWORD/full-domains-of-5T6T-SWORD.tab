@@ -1,0 +1,17 @@
+Cleaning non-standard residues
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Parsing chain: A
+
+DSSP
+Parsing DSSP
+Peeling
+
+
+PDB: 5T6T.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|
+1 |12 |                                                        1-12|  0.000000|    0.000000|    0.000000
+

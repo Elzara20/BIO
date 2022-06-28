@@ -1,0 +1,26 @@
+Cleaning non-standard residues
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Warning by _GetModelOrDefault: WARNING: Model not specified. Taking model 0 as default! 
+Parsing chain: A
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 2KB0.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |178|                                                       1-178|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+4 |33 |                                   1-33 34-82 83-137 138-178|    2.701770|         *|
+3 |41 |                                         1-82 83-137 138-178|    2.911232|         *|
+2 |82 |                                                 1-82 83-178|    3.088639|         *|
+1 |178|                                                       1-178|    0.000000|       n/a|
+

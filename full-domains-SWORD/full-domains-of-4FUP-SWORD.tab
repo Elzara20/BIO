@@ -1,0 +1,45 @@
+Cleaning non-standard residues
+Parsing chain: A
+Parsing chain: B
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4FUP.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |80 |                                               4-127 128-207|    3.416040|      ****|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+5 |31 |                           4-34 35-77 78-127 128-160 161-207|    2.502157|         *|
+4 |31 |                                   4-34 35-77 78-127 128-207|    2.823849|         *|
+3 |50 |                                         4-77 78-127 128-207|    3.340552|       ***|
+2 |80 |                                               4-127 128-207|    3.416040|      ****|
+1 |199|                                                       4-207|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4FUP.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+3 |50 |                                         4-77 78-127 128-207|    3.351648|       ***|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+5 |31 |                           4-34 35-77 78-127 128-160 161-207|    2.500390|         *|
+4 |33 |                                 4-77 78-127 128-160 161-207|    2.820424|         *|
+3 |50 |                                         4-77 78-127 128-207|    3.351648|       ***|
+2 |80 |                                               4-127 128-207|    3.428201|      ****|
+1 |195|                                                       4-207|    0.000000|       n/a|
+

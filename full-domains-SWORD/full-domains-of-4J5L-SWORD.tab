@@ -1,0 +1,45 @@
+Cleaning non-standard residues
+Parsing chain: A
+Parsing chain: B
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4J5L.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |171|                               1473-1616;1829-1855 1617-1828|    3.688041|      ****|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+5 |49 |       1473-1543;1829-1855 1544-1616 1617-1680 1681-1756 1757-1828|    3.273365|         *|
+4 |49 |               1473-1543;1829-1855 1544-1616 1617-1680 1681-1828|    3.348202|         *|
+3 |73 |                       1473-1543;1829-1855 1544-1616 1617-1828|    3.464602|         *|
+2 |171|                               1473-1616;1829-1855 1617-1828|    3.688041|      ****|
+1 |368|                                                   1473-1855|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 4J5L.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |165|                               1472-1613;1829-1855 1614-1828|    3.667474|      ****|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+5 |45 |1472-1543;1829-1855 1544-1613 1614-1680 1681-1711;1757-1828 1712-1756|    3.263403|         *|
+4 |45 |     1472-1613;1829-1855 1614-1680 1681-1711;1757-1828 1712-1756|    3.338724|         *|
+3 |46 |                     1472-1613;1829-1855 1614-1680 1681-1828|    3.463920|       ***|
+2 |165|                               1472-1613;1829-1855 1614-1828|    3.667474|      ****|
+1 |355|                                                   1472-1855|    0.000000|       n/a|
+

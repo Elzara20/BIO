@@ -1,0 +1,397 @@
+Cleaning non-standard residues
+Parsing chain: A
+Parsing chain: B
+Parsing chain: C
+Parsing chain: D
+Parsing chain: E
+Parsing chain: F
+Parsing chain: G
+Parsing chain: H
+Parsing chain: I
+Parsing chain: J
+Parsing chain: K
+Parsing chain: L
+Parsing chain: M
+Parsing chain: N
+Parsing chain: O
+Parsing chain: P
+Parsing chain: Q
+Parsing chain: R
+Parsing chain: S
+Parsing chain: T
+Parsing chain: U
+Parsing chain: V
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |98 |                                                      38-135|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+3 |30 |                                          38-68 69-98 99-135|    2.871439|         *|
+2 |37 |                                                38-98 99-135|    3.084283|        **|
+1 |98 |                                                      38-135|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |80 |                                                      23-102|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |39 |                                                23-61 62-102|    3.104644|        **|
+1 |80 |                                                      23-102|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |46 |                                                15-60 61-118|    3.215273|       ***|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |46 |                                                15-60 61-118|    3.215273|       ***|
+1 |104|                                                      15-118|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |94 |                                                      28-121|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |38 |                                                28-65 66-121|    3.058637|        **|
+1 |94 |                                                      28-121|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |97 |                                                      38-134|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+3 |30 |                                          38-68 69-98 99-134|    2.860982|         *|
+2 |36 |                                                38-98 99-134|    3.090017|        **|
+1 |97 |                                                      38-134|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |82 |                                                      21-102|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |40 |                                                21-60 61-102|    3.080752|        **|
+1 |82 |                                                      21-102|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |103|                                                      16-118|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+3 |30 |                                          16-57 58-88 89-118|    2.916015|         *|
+2 |42 |                                                16-57 58-118|    3.179813|       ***|
+1 |103|                                                      16-118|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |93 |                                                      29-121|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |36 |                                                29-64 65-121|    3.067029|        **|
+1 |93 |                                                      29-121|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|
+1 |164|                                                       1-164|  0.000000|    0.000000|    0.000000
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|
+1 |167|                                                       1-167|  0.000000|    0.000000|    0.000000
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |98 |                                                      38-135|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+3 |30 |                                          38-68 69-98 99-135|    2.868254|         *|
+2 |37 |                                                38-98 99-135|    3.080971|        **|
+1 |98 |                                                      38-135|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |80 |                                                      23-102|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |39 |                                                23-61 62-102|    3.097937|        **|
+1 |80 |                                                      23-102|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |104|                                                      15-118|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |46 |                                                15-60 61-118|    3.139303|       ***|
+1 |104|                                                      15-118|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |94 |                                                      28-121|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |38 |                                                28-65 66-121|    3.073948|        **|
+1 |94 |                                                      28-121|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |97 |                                                      38-134|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+3 |30 |                                          38-68 69-98 99-134|    2.866642|         *|
+2 |36 |                                                38-98 99-134|    3.091361|        **|
+1 |97 |                                                      38-134|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |82 |                                                      21-102|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |41 |                                                21-61 62-102|    3.064606|        **|
+1 |82 |                                                      21-102|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |103|                                                      16-118|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+3 |30 |                                          16-57 58-88 89-118|    2.934623|         *|
+2 |42 |                                                16-57 58-118|    3.199758|       ***|
+1 |103|                                                      16-118|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |93 |                                                      29-121|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |36 |                                                29-64 65-121|    3.095105|        **|
+1 |93 |                                                      29-121|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|
+1 |164|                                                       1-164|  0.000000|    0.000000|    0.000000
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|
+1 |167|                                                       1-167|  0.000000|    0.000000|    0.000000
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |76 |                                                       22-97|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |37 |                                                 22-60 61-97|    3.050813|         *|
+1 |76 |                                                       22-97|    0.000000|       n/a|
+
+
+DSSP
+Parsing DSSP
+Peeling
+
+Computing criteria for PUs merging
+Predicting structural domains
+Selecting domain assignments
+
+PDB: 5WCU.pdb
+ASSIGNMENT	
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+1 |76 |                                                       22-97|    0.000000|       n/a|
+ALTERNATIVES
+#D|Min|                                                  BOUNDARIES|   AVERAGE κ|   QUALITY|
+2 |37 |                                                 22-60 61-97|    3.014523|         *|
+1 |76 |                                                       22-97|    0.000000|       n/a|
+
