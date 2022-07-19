@@ -1,0 +1,170 @@
+BLASTP 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+           492,760,762 sequences; 190,859,634,892 total letters
+
+
+
+Query= 102L_1
+
+Length=165
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+102L_A Chain A, T4 LYSOZYME [Escherichia phage T4]                    339     2e-117
+5KHZ_A Chain A, Endolysin [Tequatrovirus T4]                          334     2e-115
+212L_A Chain A, T4 LYSOZYME [Tequatrovirus T4]                        333     3e-115
+103L_A Chain A, T4 LYSOZYME [Escherichia phage T4]                    333     5e-115
+1C6P_A Chain A, PROTEIN (LYSOZYME) [Tequatrovirus T4]                 333     6e-115
+
+
+>102L_A Chain A, T4 LYSOZYME [Escherichia phage T4]
+Length=165
+
+ Score = 339 bits (869),  Expect = 2e-117, Method: Compositional matrix adjust.
+ Identities = 165/165 (100%), Positives = 165/165 (100%), Gaps = 0/165 (0%)
+
+Query  1    MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAAKSELDKAIGRNTNGVIT  60
+            MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAAKSELDKAIGRNTNGVIT
+Sbjct  1    MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAAKSELDKAIGRNTNGVIT  60
+
+Query  61   KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR  120
+            KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR
+Sbjct  61   KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR  120
+
+Query  121  MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL  165
+            MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL
+Sbjct  121  MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL  165
+
+
+>5KHZ_A Chain A, Endolysin [Tequatrovirus T4]
+Length=170
+
+ Score = 334 bits (856),  Expect = 2e-115, Method: Compositional matrix adjust.
+ Identities = 164/165 (99%), Positives = 164/165 (99%), Gaps = 1/165 (1%)
+
+Query  1    MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAAKSELDKAIGRNTNGVIT  60
+            MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAA KSELDKAIGRNTNGVIT
+Sbjct  1    MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAA-KSELDKAIGRNTNGVIT  59
+
+Query  61   KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR  120
+            KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR
+Sbjct  60   KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR  119
+
+Query  121  MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL  165
+            MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL
+Sbjct  120  MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL  164
+
+
+>212L_A Chain A, T4 LYSOZYME [Tequatrovirus T4]
+Length=168
+
+ Score = 333 bits (855),  Expect = 3e-115, Method: Compositional matrix adjust.
+ Identities = 164/165 (99%), Positives = 164/165 (99%), Gaps = 1/165 (1%)
+
+Query  1    MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAAKSELDKAIGRNTNGVIT  60
+            MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAA KSELDKAIGRNTNGVIT
+Sbjct  1    MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAA-KSELDKAIGRNTNGVIT  59
+
+Query  61   KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR  120
+            KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR
+Sbjct  60   KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR  119
+
+Query  121  MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL  165
+            MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL
+Sbjct  120  MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL  164
+
+
+>103L_A Chain A, T4 LYSOZYME [Escherichia phage T4]
+Length=167
+
+ Score = 333 bits (853),  Expect = 5e-115, Method: Compositional matrix adjust.
+ Identities = 164/167 (98%), Positives = 165/167 (99%), Gaps = 2/167 (1%)
+
+Query  1    MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNA--AAKSELDKAIGRNTNGV  58
+            MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLN+  AAKSELDKAIGRNTNGV
+Sbjct  1    MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNSLDAAKSELDKAIGRNTNGV  60
+
+Query  59   ITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS  118
+            ITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS
+Sbjct  61   ITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS  120
+
+Query  119  LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL  165
+            LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL
+Sbjct  121  LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL  167
+
+
+>1C6P_A Chain A, PROTEIN (LYSOZYME) [Tequatrovirus T4]
+ 1C6Q_A Chain A, PROTEIN (LYSOZYME) [Tequatrovirus T4]
+ 1C6T_A Chain A, PROTEIN (LYSOZYME) [Tequatrovirus T4]
+ 1L63_A Chain A, LYSOZYME [Tequatrovirus T4]
+ 1LW9_A Chain A, LYSOZYME [Tequatrovirus T4]
+ 219L_A Chain A, T4 LYSOZYME [Tequatrovirus T4]
+ 2OE4_X Chain X, Lysozyme [Tequatrovirus T4]
+ 2OE7_X Chain X, Lysozyme [Tequatrovirus T4]
+ 2OE9_X Chain X, Lysozyme [Tequatrovirus T4]
+ 2OEA_X Chain X, Lysozyme [Tequatrovirus T4]
+ 5VNQ_A Chain A, Endolysin [Tequatrovirus T4]
+ 5VNR_A Chain A, Endolysin [Tequatrovirus T4]
+ 6PH0_A Chain A, Endolysin [Tequatrovirus T4]
+ 6PH1_A Chain A, Endolysin [Tequatrovirus T4]
+ 6U0B_A Chain A, Endolysin [Tequatrovirus T4]
+ 6U0C_A Chain A, Endolysin [Tequatrovirus T4]
+Length=164
+
+ Score = 333 bits (853),  Expect = 6e-115, Method: Compositional matrix adjust.
+ Identities = 164/165 (99%), Positives = 164/165 (99%), Gaps = 1/165 (1%)
+
+Query  1    MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAAKSELDKAIGRNTNGVIT  60
+            MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAA KSELDKAIGRNTNGVIT
+Sbjct  1    MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAA-KSELDKAIGRNTNGVIT  59
+
+Query  61   KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR  120
+            KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR
+Sbjct  60   KDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLR  119
+
+Query  121  MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL  165
+            MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL
+Sbjct  120  MLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYKNL  164
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.133    0.382    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 4728091522172
+
+
+  Database: All non-redundant GenBank CDS translations+PDB+SwissProt+PIR+PRF
+excluding environmental samples from WGS projects
+    Posted date:  Jul 7, 2022  2:50 AM
+  Number of letters in database: 190,859,634,892
+  Number of sequences in database:  492,760,762
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 21
+Window for multiple hits: 40
