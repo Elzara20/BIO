@@ -1,0 +1,94 @@
+BLASTP 2.11.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: /home/elzara/ncbi-blast-2.11.0+/bin/db_for_blast/db_vrl.fsa_aa
+           35,684,214 sequences; 38,736,416,042 total letters
+
+
+
+Query= 123L_1
+
+Length=164
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+QGT55196.1 lysozyme R [Escherichia phage FP43]                        276     2e-93
+QGT55163.1 baseplate hub structural protein / lysozyme R [Escheri...  112     5e-26
+
+
+>QGT55196.1 lysozyme R [Escherichia phage FP43]
+Length=162
+
+ Score = 276 bits (706),  Expect = 2e-93, Method: Compositional matrix adjust.
+ Identities = 130/161 (81%), Positives = 145/161 (90%), Gaps = 0/161 (0%)
+
+Query  1    MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITK  60
+            MNIFEMLR DEGLRL +YKDTEG++TIGIGHL+TK+PSL  AK+ELD+ IGR  NG IT 
+Sbjct  1    MNIFEMLRNDEGLRLTLYKDTEGFWTIGIGHLVTKNPSLAVAKAELDRMIGRKCNGTITL  60
+
+Query  61   DEAEKLFNQDVDAAVRGILRNSKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRM  120
+            DEAEKLFN+DVD AVRGIL N+KLKPVYDSLDAVRR AL+NMVFQMG  GVAGFTNSLRM
+Sbjct  61   DEAEKLFNEDVDKAVRGILGNAKLKPVYDSLDAVRRCALVNMVFQMGVAGVAGFTNSLRM  120
+
+Query  121  LQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY  161
+            L+QKRWDEAAVNLA+S+WY QTPNRAKRVI+TF+TGTW AY
+Sbjct  121  LKQKRWDEAAVNLAQSKWYRQTPNRAKRVISTFKTGTWKAY  161
+
+
+>QGT55163.1 baseplate hub structural protein / lysozyme R [Escherichia 
+phage FP43]
+Length=577
+
+ Score = 112 bits (280),  Expect = 5e-26, Method: Compositional matrix adjust.
+ Identities = 68/164 (41%), Positives = 89/164 (54%), Gaps = 5/164 (3%)
+
+Query  3    IFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLT--KSPSLNAAKSELDKAIGRNTNG---V  57
+            I EMLR DEGLR K+Y D  GY T+GIGHL+   K+  ++     L   +GR   G    
+Sbjct  176  ITEMLRRDEGLRDKVYWDHLGYPTVGIGHLIVMEKTRDMSRINKLLSDQVGREVTGNPGT  235
+
+Query  58   ITKDEAEKLFNQDVDAAVRGILRNSKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNS  117
+            IT +EA  LF +D+    + I  NSK+ PVY  ++  R+ AL NM FQMG  GVA F   
+Sbjct  236  ITLEEATALFEKDLAKMQKDIRSNSKVGPVYAKMNRSRQMALENMCFQMGVGGVAKFNTM  295
+
+Query  118  LRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY  161
+            L+ +    W  A  +   S W+ QT  RA RV T   TG  ++Y
+Sbjct  296  LKAMATGDWKTAYKSGRDSLWFQQTKGRASRVTTIILTGNMESY  339
+
+
+
+Lambda      K        H        a         alpha
+   0.318    0.133    0.383    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 948734162264
+
+
+  Database: /home/elzara/ncbi-blast-2.11.0+/bin/db_for_blast/db_vrl.fsa_aa
+    Posted date:  Jul 27, 2022  2:09 PM
+  Number of letters in database: 38,736,416,042
+  Number of sequences in database:  35,684,214
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 21
+Window for multiple hits: 40
