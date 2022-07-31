@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="95E4AA18-10A0-11ED-8BFE-1B269FF39757">
+    <matches>
+      <protein length="101">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF01248.29" id="Ribosomal_L7Ae" type="Pfam-A" class="Domain">
+            START=3 END=96
+              <hmm>
+                <![CDATA[vlkkakktkklvlGlkevtkalergeaklvilAedvepeekkkllealck..eknvpyvkvkskkeLGellgkkrpvsalaikdegdskdl]]>
+              </hmm>
+              <match_string>
+                <![CDATA[+l+ka++t+k+v+G++++++  + g akl+i+A +++p+ k++ +e++++   ++v+ ++++s  eLG+llg++++vsala++d+g+s +l]]>
+              </match_string>
+              <pp>
+                <![CDATA[699****************************************.******6667777788889.************************987]]>
+              </pp>
+              <seq>
+                <![CDATA[ELRKAQDTGKIVMGARKSIQYAKMGGAKLIIVARNARPDIKED-IEYYARlsGIPVYEFEGTS-VELGTLLGRPHTVSALAVVDPGASAIL]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       vlkkakktkklvlGlkevtkalergeaklvilAedvepeekkkllealck..eknvpyvkvkskkeLGellgkkrpvsalaikdegdskdl
+#MATCH     +l+ka++t+k+v+G++++++  + g akl+i+A +++p+ k++ +e++++   ++v+ ++++s  eLG+llg++++vsala++d+g+s +l
+#PP        699****************************************.******6667777788889.************************987
+#SEQ       ELRKAQDTGKIVMGARKSIQYAKMGGAKLIIVARNARPDIKED-IEYYARlsGIPVYEFEGTS-VELGTLLGRPHTVSALAVVDPGASAIL
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

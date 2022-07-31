@@ -1,5 +1,5 @@
 #!/bin/bash
-for file in /home/elzara/fasta_one/*
+for file in /home/elzara/Globular/fasta_one/*
 do
 	#echo file=$file
 	filename=`basename ${file%%.*}`

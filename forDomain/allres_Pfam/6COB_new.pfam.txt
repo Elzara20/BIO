@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="AC4A6D38-10A5-11ED-90E2-98269FF39757">
+    <matches>
+      <protein length="260">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF12697.10" id="Abhydrolase_6" type="Pfam-A" class="Domain">
+            START=7 END=249
+              <hmm>
+                <![CDATA[vllHGaglssssWl.vaplaallaagvrvlapDlpGhGrsdpppldledladl.aalldelaa..gggpvvlvGHSlGGa.lalaaapaa......lvvgvlldppptalpagl......laaalelllalga.....llrs...lawlsre.......rplprlfladed.adaawraalarlaallaglg....llplaawadlpapvlvlggeDplvpallerlla..qagarlvvlpgaGHlphleepdev]]>
+              </hmm>
+              <match_string>
+                <![CDATA[vl+H a +++++W+   pl++ ++++v   a+ l   G +++p   +e ++++   l++ l +     +v+lvG S+GG+ + ++   aa      + v v+l++   +lp++       l+ ++e++ ++g+        +    +    +        +++ +++ + + +d++ + +l r   l++ ++     ++ +++   +  + v+++eD+++p  + r++     + ++ ++ g++H+++l++p+++]]>
+              </match_string>
+              <pp>
+                <![CDATA[788866677778*87889999999999..*********99999999999999975566666667799999*********953.44...222445534444*****...7777777888889999999999999443331..123323....03333445555556666444467888888888888888555555566788999999999.669*******9999****555555559999***********876]]>
+              </pp>
+              <seq>
+                <![CDATA[VLVHNACHGAWIWYkLKPLLESAGHRV--TAVELAASGIDPRPIQAVETVDEYsKPLIETLKSlpENEEVILVGFSFGGInI-AL---AAdifpakIKVLVFLNA---FLPDTThvpshvLDKLMEMFGGWGDtefssH--EtrnGT----MsllkmgpKFMKARLYQNCPiEDYELAKMLHRQGSLFTEDLskkeKFSEEGYGSVQRVY-VMSSEDKIIPCDFIRWMIdnFNVSKVYEIDGGDHMVMLSKPQKL]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       vllHGaglssssWl.vaplaallaagvrvlapDlpGhGrsdpppldledladl.aalldelaa..gggpvvlvGHSlGGa.lalaaapaa......lvvgvlldppptalpagl......laaalelllalga.....llrs...lawlsre.......rplprlfladed.adaawraalarlaallaglg....llplaawadlpapvlvlggeDplvpallerlla..qagarlvvlpgaGHlphleepdev
+#MATCH     vl+H a +++++W+   pl++ ++++v   a+ l   G +++p   +e ++++   l++ l +     +v+lvG S+GG+ + ++   aa      + v v+l++   +lp++       l+ ++e++ ++g+        +    +    +        +++ +++ + + +d++ + +l r   l++ ++     ++ +++   +  + v+++eD+++p  + r++     + ++ ++ g++H+++l++p+++
+#PP        788866677778*87889999999999..*********99999999999999975566666667799999*********953.44...222445534444*****...7777777888889999999999999443331..123323....03333445555556666444467888888888888888555555566788999999999.669*******9999****555555559999***********876
+#SEQ       VLVHNACHGAWIWYkLKPLLESAGHRV--TAVELAASGIDPRPIQAVETVDEYsKPLIETLKSlpENEEVILVGFSFGGInI-AL---AAdifpakIKVLVFLNA---FLPDTThvpshvLDKLMEMFGGWGDtefssH--EtrnGT----MsllkmgpKFMKARLYQNCPiEDYELAKMLHRQGSLFTEDLskkeKFSEEGYGSVQRVY-VMSSEDKIIPCDFIRWMIdnFNVSKVYEIDGGDHMVMLSKPQKL
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

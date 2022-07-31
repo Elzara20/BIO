@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="76483294-109E-11ED-9EFA-9BBE9C0AC6AE">
+    <matches>
+      <protein length="194">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF02518.29" id="HATPase_c" type="Pfam-A" class="Domain">
+            START=27 END=149
+              <hmm>
+                <![CDATA[dekrLrqiisnlvdNavkf..atkageieveikadeddlvisveDnGiGippedlkrlfekfsqddstkrggggtGlGlsivkklvelmgGeiwv.......................esepgrGttftftlpl]]>
+              </hmm>
+              <match_string>
+                <![CDATA[d +r  ++ ++++dN+v++  a++a++++v ++    d +++v D+G+G+p++++++ + + ++            l  s+v++l+++++ ++++                         + + Gt+++f++++]]>
+              </match_string>
+              <pp>
+                <![CDATA[778899999**********65558888899999..5.99*****************55445555..........556777777777765555554555555666555444444434432222558888888876]]>
+              </pp>
+              <seq>
+                <![CDATA[DTTRPNHLGQEVIDNSVDEalAGHAKRVDVILH--A-DQSLEVIDDGRGMPVDIHPEEGVPAVE----------LILCISVVNALSKRVEVNVRRdgqvyniafengekvqdlqvvgtCGKRNTGTSVHFWPDE]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       dekrLrqiisnlvdNavkf..atkageieveikadeddlvisveDnGiGippedlkrlfekfsqddstkrggggtGlGlsivkklvelmgGeiwv.......................esepgrGttftftlpl
+#MATCH     d +r  ++ ++++dN+v++  a++a++++v ++    d +++v D+G+G+p++++++ + + ++            l  s+v++l+++++ ++++                         + + Gt+++f++++
+#PP        778899999**********65558888899999..5.99*****************55445555..........556777777777765555554555555666555444444434432222558888888876
+#SEQ       DTTRPNHLGQEVIDNSVDEalAGHAKRVDVILH--A-DQSLEVIDDGRGMPVDIHPEEGVPAVE----------LILCISVVNALSKRVEVNVRRdgqvyniafengekvqdlqvvgtCGKRNTGTSVHFWPDE
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

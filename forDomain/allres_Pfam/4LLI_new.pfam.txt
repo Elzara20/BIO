@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="D5F71FB6-10A3-11ED-8754-4F76C11EE0BF">
+    <matches>
+      <protein length="395">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF01843.22" id="DIL" type="Pfam-A" class="Repeat">
+            START=227 END=330
+              <hmm>
+                <![CDATA[qlfsqlfyfinaelfNrllsrkklcsrskGlqlrmnlsrleeWaeeqglleeaarkhlapliqaaqllqlpkssledlestlsstcpkLnpaQlkrllekYrpe]]>
+              </hmm>
+              <match_string>
+                <![CDATA[q+++q+fy i+a  +N+ll+rk++cs+skG+q+r+n+s+leeW+++++l+++ a+++l+pliqaaqllq++k++ +d+e+++ s+c++L++aQ+ ++l+ Y+p ]]>
+              </match_string>
+              <pp>
+                <![CDATA[899**********************************************************************999999999.******************985]]>
+              </pp>
+              <seq>
+                <![CDATA[QVVKQMFYIIGAITLNNLLLRKDMCSWSKGMQIRYNVSQLEEWLRDKNLMNSGAKETLEPLIQAAQLLQVKKKTDDDAEAIC-SMCNALTTAQIVKVLNLYTPV]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       qlfsqlfyfinaelfNrllsrkklcsrskGlqlrmnlsrleeWaeeqglleeaarkhlapliqaaqllqlpkssledlestlsstcpkLnpaQlkrllekYrpe
+#MATCH     q+++q+fy i+a  +N+ll+rk++cs+skG+q+r+n+s+leeW+++++l+++ a+++l+pliqaaqllq++k++ +d+e+++ s+c++L++aQ+ ++l+ Y+p 
+#PP        899**********************************************************************999999999.******************985
+#SEQ       QVVKQMFYIIGAITLNNLLLRKDMCSWSKGMQIRYNVSQLEEWLRDKNLMNSGAKETLEPLIQAAQLLQVKKKTDDDAEAIC-SMCNALTTAQIVKVLNLYTPV
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

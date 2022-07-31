@@ -1,3 +1,0 @@
-            START=3 END=78
-            START=131 END=206
-            START=79 END=126

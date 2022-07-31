@@ -1,2 +1,0 @@
-            START=3 END=96
-            START=101 END=194

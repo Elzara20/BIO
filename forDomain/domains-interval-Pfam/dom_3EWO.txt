@@ -1,2 +1,0 @@
-            START=41 END=148
-            START=208 END=315

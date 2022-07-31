@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="16B833AC-10A7-11ED-A5BA-0C155E95D1BA">
+    <matches>
+      <protein length="317">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF04389.20" id="Peptidase_M28" type="Pfam-A" class="Family">
+            START=91 END=313
+              <hmm>
+                <![CDATA[NviatlegkatdevlllgAHyDsvgvg.........rgpifvGAdDnAsgvaalLelarvlaasgsrpkrgvrflffdaEEa.............gllGSkafakakp..elkkiaavlnlDmvgsggkellf.rigdkssselekelkalakpvgvaeaedpfdersgrgrsDhspflkag.vpvldl......aetgfperyHtprDtldnidkdalariaelvlel]]>
+              </hmm>
+              <match_string>
+                <![CDATA[N+++ +++++ ++++ll AH+Ds++++         r+  + GAdD++sgv++lLe+ar+++a  + p  g++++ffdaE++             ++lGS+++a ++p  +++k ++ ++lDmvgs+g +++   ++ +++++  ++++++a+++g  +   +++ ++g++ +Dh  +++    p+ld+       + gf++++Ht++Dt++nid ++l++++e++l++]]>
+              </match_string>
+              <pp>
+                <![CDATA[9*********.9**************999887665444.5**********************9..68*************************************.66667**********************988888999999999999*****9975..8899999*******99997766**********99999***************************9987]]>
+              </pp>
+              <seq>
+                <![CDATA[NIVGAFQPEK-SRRVLLFAHWDSRPYAdhdtdeanhRK-PIDGADDGGSGVGILLEIARQIQA--KAPAIGIDIVFFDAEDYgtpefvdeykpdtWCLGSQFWA-KNPhvPNYKAEFGILLDMVGSRGATFYKeSTSVQYAARYVEKVWTAARELGYGK--YFINAQGGAIVDDHQYVIQGLrTPCLDIinydpdTQSGFGPYWHTQNDTMENIDRETLKAVGETILNV]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       NviatlegkatdevlllgAHyDsvgvg.........rgpifvGAdDnAsgvaalLelarvlaasgsrpkrgvrflffdaEEa.............gllGSkafakakp..elkkiaavlnlDmvgsggkellf.rigdkssselekelkalakpvgvaeaedpfdersgrgrsDhspflkag.vpvldl......aetgfperyHtprDtldnidkdalariaelvlel
+#MATCH     N+++ +++++ ++++ll AH+Ds++++         r+  + GAdD++sgv++lLe+ar+++a  + p  g++++ffdaE++             ++lGS+++a ++p  +++k ++ ++lDmvgs+g +++   ++ +++++  ++++++a+++g  +   +++ ++g++ +Dh  +++    p+ld+       + gf++++Ht++Dt++nid ++l++++e++l++
+#PP        9*********.9**************999887665444.5**********************9..68*************************************.66667**********************988888999999999999*****9975..8899999*******99997766**********99999***************************9987
+#SEQ       NIVGAFQPEK-SRRVLLFAHWDSRPYAdhdtdeanhRK-PIDGADDGGSGVGILLEIARQIQA--KAPAIGIDIVFFDAEDYgtpefvdeykpdtWCLGSQFWA-KNPhvPNYKAEFGILLDMVGSRGATFYKeSTSVQYAARYVEKVWTAARELGYGK--YFINAQGGAIVDDHQYVIQGLrTPCLDIinydpdTQSGFGPYWHTQNDTMENIDRETLKAVGETILNV
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

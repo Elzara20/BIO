@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="BEC4875C-109E-11ED-9E3D-FC75C11EE0BF">
+    <matches>
+      <protein length="172">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF13499.9" id="EF-hand_7" type="Pfam-A" class="Domain">
+            START=9 END=73
+              <hmm>
+                <![CDATA[klkeaFkelDtdgdgyldkeeLlrllrkifqgsgegkklsdeeleelfkefDldkdGvisfdEFlkay]]>
+              </hmm>
+              <match_string>
+                <![CDATA[+ keaF ++D+dgdg ++ +eL  ++r      + g+++++ el+++++e+D d++G+i+f EFl+++]]>
+              </match_string>
+              <pp>
+                <![CDATA[5799*******************9999......999999***************************98]]>
+              </pp>
+              <seq>
+                <![CDATA[EFKEAFSLFDKDGDGTITTKELGTVMR------SLGQNPTEAELQDMINEVDADGNGTIDFPEFLTMM]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       klkeaFkelDtdgdgyldkeeLlrllrkifqgsgegkklsdeeleelfkefDldkdGvisfdEFlkay
+#MATCH     + keaF ++D+dgdg ++ +eL  ++r      + g+++++ el+++++e+D d++G+i+f EFl+++
+#PP        5799*******************9999......999999***************************98
+#SEQ       EFKEAFSLFDKDGDGTITTKELGTVMR------SLGQNPTEAELQDMINEVDADGNGTIDFPEFLTMM
+                ]]>
+              </raw>
+            </location>
+            START=82 END=146
+              <hmm>
+                <![CDATA[eeklkeaFkelDtdgdgyldkeeLlrllrkifqgsgegkklsdeeleelfkefDldkdGvisfdEFlkayr]]>
+              </hmm>
+              <match_string>
+                <![CDATA[ee+++eaF+ +D+dg+gy++ +eL+++++        g+kl+dee++e+++e D d+dG+++++EF+++++]]>
+              </match_string>
+              <pp>
+                <![CDATA[689**************************......89********************************95]]>
+              </pp>
+              <seq>
+                <![CDATA[EEEIREAFRVFDKDGNGYISAAELRHVMT------NLGEKLTDEEVDEMIREADIDGDGQVNYEEFVQMMT]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       eeklkeaFkelDtdgdgyldkeeLlrllrkifqgsgegkklsdeeleelfkefDldkdGvisfdEFlkayr
+#MATCH     ee+++eaF+ +D+dg+gy++ +eL+++++        g+kl+dee++e+++e D d+dG+++++EF+++++
+#PP        689**************************......89********************************95
+#SEQ       EEEIREAFRVFDKDGNGYISAAELRHVMT------NLGEKLTDEEVDEMIREADIDGDGQVNYEEFVQMMT
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

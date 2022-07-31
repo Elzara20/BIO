@@ -1,4 +1,0 @@
-            START=9 END=235
-            START=250 END=476
-            START=491 END=717
-            START=732 END=958

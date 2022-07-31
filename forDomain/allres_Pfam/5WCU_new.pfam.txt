@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="88273C74-10A5-11ED-8AB6-8176C11EE0BF">
+    <matches>
+      <protein length="788">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF00125.27" id="Histone" type="Pfam-A" class="Domain">
+            START=1 END=94
+              <hmm>
+                <![CDATA[krryrpgtkalkeirkyqkstdlliqklpfaRvvrevvqstkedlrisaeAvvalqeaveallvelfeeAnllakhaKRvTltpkDiqlArrlr]]>
+              </hmm>
+              <match_string>
+                <![CDATA[++ryrpgt+al+eir+yqkst+lli+klpf+R+vre+ q++k+dlr++++Av+alqea+ea+lv lfe++nl+a+haKRvT++pkDiqlArr+r]]>
+              </match_string>
+              <pp>
+                <![CDATA[59******************************************************************************************97]]>
+              </pp>
+              <seq>
+                <![CDATA[PHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIR]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       krryrpgtkalkeirkyqkstdlliqklpfaRvvrevvqstkedlrisaeAvvalqeaveallvelfeeAnllakhaKRvTltpkDiqlArrlr
+#MATCH     ++ryrpgt+al+eir+yqkst+lli+klpf+R+vre+ q++k+dlr++++Av+alqea+ea+lv lfe++nl+a+haKRvT++pkDiqlArr+r
+#PP        59******************************************************************************************97
+#SEQ       PHRYRPGTVALREIRRYQKSTELLIRKLPFQRLVREIAQDFKTDLRFQSSAVMALQEASEAYLVGLFEDTNLCAIHAKRVTIMPKDIQLARRIR
+                ]]>
+              </raw>
+            </location>
+            START=179 END=256
+              <hmm>
+                <![CDATA[kstdlliqklpfaRvvrevvqstkedlrisaeAvvalqeaveallvelfeeAnllakhaKRvTltpkDiqlArr]]>
+              </hmm>
+              <match_string>
+                <![CDATA[+++ + + ++p+ R++r +++      r+ a A+v+l++ +e+l  e++e A ++a+++K+ ++ p+++qlA+r]]>
+              </match_string>
+              <pp>
+                <![CDATA[567788899***********8.88899**********************************************9]]>
+              </pp>
+              <seq>
+                <![CDATA[SRSNRAGLQFPVGRIHRLLRK-GNYAERVGAGAPVYLAAVMEYLAAEVLELAGNAARDNKKTRIIPRHLQLAIR]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       kstdlliqklpfaRvvrevvqstkedlrisaeAvvalqeaveallvelfeeAnllakhaKRvTltpkDiqlArr
+#MATCH     +++ + + ++p+ R++r +++      r+ a A+v+l++ +e+l  e++e A ++a+++K+ ++ p+++qlA+r
+#PP        567788899***********8.88899**********************************************9
+#SEQ       SRSNRAGLQFPVGRIHRLLRK-GNYAERVGAGAPVYLAAVMEYLAAEVLELAGNAARDNKKTRIIPRHLQLAIR
+                ]]>
+              </raw>
+            </location>
+            START=282 END=355
+              <hmm>
+                <![CDATA[kstdlliqklpfaRvvrevvqstkedlrisaeAvvalqeaveallvelfeeAnllakhaKRvTltpkDiqlArrl]]>
+              </hmm>
+              <match_string>
+                <![CDATA[k+++++++++++++v+++v++    d +is++A+ +++++v++++++++ eA++la ++KR+T+t+++iq+A+rl]]>
+              </match_string>
+              <pp>
+                <![CDATA[68899****************....*************************************************8]]>
+              </pp>
+              <seq>
+                <![CDATA[KRKRKESYAIYIYKVLKQVHP----DTGISSKAMSIMNSFVNDIFERIAAEASRLAHYNKRSTITSREIQTAVRL]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       kstdlliqklpfaRvvrevvqstkedlrisaeAvvalqeaveallvelfeeAnllakhaKRvTltpkDiqlArrl
+#MATCH     k+++++++++++++v+++v++    d +is++A+ +++++v++++++++ eA++la ++KR+T+t+++iq+A+rl
+#PP        68899****************....*************************************************8
+#SEQ       KRKRKESYAIYIYKVLKQVHP----DTGISSKAMSIMNSFVNDIFERIAAEASRLAHYNKRSTITSREIQTAVRL
+                ]]>
+              </raw>
+            </location>
+          </match>
+          <match accession="PF16211.8" id="Histone_H2A_C" type="Pfam-A" class="Family">
+            START=257 END=290
+              <hmm>
+                <![CDATA[EELnkLLggVTIAqGGVLPnIhkvLLpkktkkk]]>
+              </hmm>
+              <match_string>
+                <![CDATA[EELnkLL+gVTIAqGGVLPnI++vLLpk + k ]]>
+              </match_string>
+              <pp>
+                <![CDATA[9****************************9986]]>
+              </pp>
+              <seq>
+                <![CDATA[EELNKLLSGVTIAQGGVLPNIQAVLLPKRKRKE]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       EELnkLLggVTIAqGGVLPnIhkvLLpkktkkk
+#MATCH     EELnkLL+gVTIAqGGVLPnI++vLLpk + k 
+#PP        9****************************9986
+#SEQ       EELNKLLSGVTIAQGGVLPNIQAVLLPKRKRKE
+                ]]>
+              </raw>
+            </location>
+          </match>
+          <match accession="PF00538.22" id="Linker_histone" type="Pfam-A" class="Domain">
+            START=716 END=787
+              <hmm>
+                <![CDATA[hpsykdMIkeAIkalkerkGsSrqaIkkyikakykvvdvskfksllkkalkkgvekgelvqpkgkGasGsfkla]]>
+              </hmm>
+              <match_string>
+                <![CDATA[hp+y++MI +AI a k r GsSrq+I+kyik++ykv   ++++ ++k  ++++++ g+l+q+kg+GasGsf+la]]>
+              </match_string>
+              <pp>
+                <![CDATA[9**********************************9..467899****************************96]]>
+              </pp>
+              <seq>
+                <![CDATA[HPTYSEMIAAAIRAEKSRGGSSRQSIQKYIKSHYKV--GHNADLQIKLSIRRLLAAGVLKQTKGVGASGSFRLA]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       hpsykdMIkeAIkalkerkGsSrqaIkkyikakykvvdvskfksllkkalkkgvekgelvqpkgkGasGsfkla
+#MATCH     hp+y++MI +AI a k r GsSrq+I+kyik++ykv   ++++ ++k  ++++++ g+l+q+kg+GasGsf+la
+#PP        9**********************************9..467899****************************96
+#SEQ       HPTYSEMIAAAIRAEKSRGGSSRQSIQKYIKSHYKV--GHNADLQIKLSIRRLLAAGVLKQTKGVGASGSFRLA
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

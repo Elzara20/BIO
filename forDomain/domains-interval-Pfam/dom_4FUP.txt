@@ -1,6 +1,0 @@
-            START=1 END=76
-            START=129 END=204
-            START=204 END=280
-            START=333 END=408
-            START=77 END=124
-            START=281 END=328

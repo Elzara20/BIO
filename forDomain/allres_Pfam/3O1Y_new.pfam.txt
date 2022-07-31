@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="02C5C8EC-10A1-11ED-968F-97269FF39757">
+    <matches>
+      <protein length="105">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF00034.24" id="Cytochrom_C" type="Pfam-A" class="Domain">
+            START=4 END=103
+              <hmm>
+                <![CDATA[aarGkklftanCaaCHgvegggakqgggptlsgaaekasadsigaqvankearsagrkdqekkdltaempark.........erlteqeiadlvaYLks]]>
+              </hmm>
+              <match_string>
+                <![CDATA[+++Gkk+f ++Ca+CH+ve+gg++++ gp+l g+ ++++ ++ g ++++ ++ + +++++e      e p +           + ++ e++dl+aYLk+]]>
+              </match_string>
+              <pp>
+                <![CDATA[68******88*************999.*****************************8888888877777765588889999899999**********97]]>
+              </pp>
+              <seq>
+                <![CDATA[VEKGKKIFVQKCAQCHTVEKGGKHKT-GPNLHGLFGRKTGQAPGFTYTDANKNKGITWKEETLMEYLENPKKYipgtkmifaGIKKKTEREDLIAYLKK]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       aarGkklftanCaaCHgvegggakqgggptlsgaaekasadsigaqvankearsagrkdqekkdltaempark.........erlteqeiadlvaYLks
+#MATCH     +++Gkk+f ++Ca+CH+ve+gg++++ gp+l g+ ++++ ++ g ++++ ++ + +++++e      e p +           + ++ e++dl+aYLk+
+#PP        68******88*************999.*****************************8888888877777765588889999899999**********97
+#SEQ       VEKGKKIFVQKCAQCHTVEKGGKHKT-GPNLHGLFGRKTGQAPGFTYTDANKNKGITWKEETLMEYLENPKKYipgtkmifaGIKKKTEREDLIAYLKK
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

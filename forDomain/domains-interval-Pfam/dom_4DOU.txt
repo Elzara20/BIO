@@ -1,3 +1,0 @@
-            START=7 END=132
-            START=148 END=273
-            START=289 END=414

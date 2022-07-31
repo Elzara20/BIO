@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="71B58AE0-10A0-11ED-9775-40BF9C0AC6AE">
+    <matches>
+      <protein length="359">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF17896.4" id="NSP2_gammaCoV" type="Pfam-A" class="Domain">
+            START=2 END=359
+              <hmm>
+                <![CDATA[rdvilvskdipeqlcdalffytshnpkdyadafavrqkfdrslqtgkqfkfetvcglfllkgvdkitpgvpakvlkatskladledifgvsplarkyrellktacqwsltvealdvraqtldeifdpteilwlqvaakihvssmamrrlvgevtakvmdalgsnlsalfqivkqqiarifqkalaifenvnelpqriaalkmafakcarsitvvvvertlvvkefagtclasingavakffeelpngfmgskifttlaffkeaavrvvenipnaprgtkgfevvgnakgtqvvvrgmrndltlldqkadipvepegwsaildghlcyvfrsgdrfyaaplsgnfalsdvhccervvcl]]>
+              </hmm>
+              <match_string>
+                <![CDATA[rdvilvskdipeqlcdalffytshnpkdyadafavrqkfdr lqtgkqfkfetvcglfllkgvdkitpgvpakvlkatskladledifgvsp+arkyrellktacqwsltve+ld ra tldeifdpteilwlqvaaki+vs+mamrrlvgevtakvmdalgsn+salfqi kqqi rifq alaifenv elpqriaalkmafakca+sitvvv+ertlvv+efagtclasingavakffeelpngfmg+kiftt+aff+eaav++v+nipnaprgtkgfevvgnakgtqvvvrgmrndltlldqka+ipve egwsail ghlcyvf+sgdrfyaaplsgnfal dvhccervvcl]]>
+              </match_string>
+              <pp>
+                <![CDATA[8********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************8]]>
+              </pp>
+              <seq>
+                <![CDATA[RDVILVSKDIPEQLCDALFFYTSHNPKDYADAFAVRQKFDRNLQTGKQFKFETVCGLFLLKGVDKITPGVPAKVLKATSKLADLEDIFGVSPFARKYRELLKTACQWSLTVETLDARALTLDEIFDPTEILWLQVAAKIQVSAMAMRRLVGEVTAKVMDALGSNMSALFQIFKQQIVRIFQAALAIFENVSELPQRIAALKMAFAKCAKSITVVVMERTLVVREFAGTCLASINGAVAKFFEELPNGFMGAKIFTTFAFFREAAVKIVDNIPNAPRGTKGFEVVGNAKGTQVVVRGMRNDLTLLDQKAEIPVESEGWSAILGGHLCYVFKSGDRFYAAPLSGNFALHDVHCCERVVCL]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       rdvilvskdipeqlcdalffytshnpkdyadafavrqkfdrslqtgkqfkfetvcglfllkgvdkitpgvpakvlkatskladledifgvsplarkyrellktacqwsltvealdvraqtldeifdpteilwlqvaakihvssmamrrlvgevtakvmdalgsnlsalfqivkqqiarifqkalaifenvnelpqriaalkmafakcarsitvvvvertlvvkefagtclasingavakffeelpngfmgskifttlaffkeaavrvvenipnaprgtkgfevvgnakgtqvvvrgmrndltlldqkadipvepegwsaildghlcyvfrsgdrfyaaplsgnfalsdvhccervvcl
+#MATCH     rdvilvskdipeqlcdalffytshnpkdyadafavrqkfdr lqtgkqfkfetvcglfllkgvdkitpgvpakvlkatskladledifgvsp+arkyrellktacqwsltve+ld ra tldeifdpteilwlqvaaki+vs+mamrrlvgevtakvmdalgsn+salfqi kqqi rifq alaifenv elpqriaalkmafakca+sitvvv+ertlvv+efagtclasingavakffeelpngfmg+kiftt+aff+eaav++v+nipnaprgtkgfevvgnakgtqvvvrgmrndltlldqka+ipve egwsail ghlcyvf+sgdrfyaaplsgnfal dvhccervvcl
+#PP        8********************************************************************************************************************************************************************************************************************************************************************************************************************************************************************8
+#SEQ       RDVILVSKDIPEQLCDALFFYTSHNPKDYADAFAVRQKFDRNLQTGKQFKFETVCGLFLLKGVDKITPGVPAKVLKATSKLADLEDIFGVSPFARKYRELLKTACQWSLTVETLDARALTLDEIFDPTEILWLQVAAKIQVSAMAMRRLVGEVTAKVMDALGSNMSALFQIFKQQIVRIFQAALAIFENVSELPQRIAALKMAFAKCAKSITVVVMERTLVVREFAGTCLASINGAVAKFFEELPNGFMGAKIFTTFAFFREAAVKIVDNIPNAPRGTKGFEVVGNAKGTQVVVRGMRNDLTLLDQKAEIPVESEGWSAILGGHLCYVFKSGDRFYAAPLSGNFALHDVHCCERVVCL
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

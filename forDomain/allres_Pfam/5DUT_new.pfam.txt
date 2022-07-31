@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="F75B2DD6-10A4-11ED-A92F-CE76C11EE0BF">
+    <matches>
+      <protein length="233">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF00509.21" id="Hemagglutinin" type="Pfam-A" class="Family">
+            START=1 END=233
+              <hmm>
+                <![CDATA[kgvkPlilrdctvadvllGnPkcdellpvakvsyiveevkpanslcyPgdlndyeelrellsllrsfekirllpkessvinhetasGvsaacpnegkssffrnlvwliekdsakptvkvsyvnsegedllvlwGihhsddkkeqeklyqnpqkyvsvstsglnrryvseiaerPkvteqsGrievyytvlkPgdtitieangnllaPekayklvksgrskiikselel]]>
+              </hmm>
+              <match_string>
+                <![CDATA[+gvkPlilrdc+va++llGnP+cde+++v+++syive+++pan+lcyPg++ndyeel++lls++++feki+++pk ss+++he++sGvs+acp++g  sffrn+vwli+k++++pt+k+sy+n+++edll+lwGihhs+d++eq+klyqnp++y+sv+ts+ln+r+v++ia+r kv++qsGr+++++t+lkP+d+i++e+ngn++aPe+ayk+vk+g+s+i+kse + ]]>
+              </match_string>
+              <pp>
+                <![CDATA[79*************************************************************************.****************************************************************************************************************************************************9765]]>
+              </pp>
+              <seq>
+                <![CDATA[DGVKPLILRDCSVAGWLLGNPMCDEFINVPEWSYIVEKANPANDLCYPGNFNDYEELKHLLSRINHFEKIQIIPK-SSWSDHEASSGVSSACPYQGTPSFFRNVVWLIKKNNTYPTIKRSYNNTNQEDLLILWGIHHSNDAAEQTKLYQNPTTYISVGTSTLNQRLVPKIATRSKVNGQSGRMDFFWTILKPNDAINFESNGNFIAPEYAYKIVKKGDSAIVKSEHHH]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       kgvkPlilrdctvadvllGnPkcdellpvakvsyiveevkpanslcyPgdlndyeelrellsllrsfekirllpkessvinhetasGvsaacpnegkssffrnlvwliekdsakptvkvsyvnsegedllvlwGihhsddkkeqeklyqnpqkyvsvstsglnrryvseiaerPkvteqsGrievyytvlkPgdtitieangnllaPekayklvksgrskiikselel
+#MATCH     +gvkPlilrdc+va++llGnP+cde+++v+++syive+++pan+lcyPg++ndyeel++lls++++feki+++pk ss+++he++sGvs+acp++g  sffrn+vwli+k++++pt+k+sy+n+++edll+lwGihhs+d++eq+klyqnp++y+sv+ts+ln+r+v++ia+r kv++qsGr+++++t+lkP+d+i++e+ngn++aPe+ayk+vk+g+s+i+kse + 
+#PP        79*************************************************************************.****************************************************************************************************************************************************9765
+#SEQ       DGVKPLILRDCSVAGWLLGNPMCDEFINVPEWSYIVEKANPANDLCYPGNFNDYEELKHLLSRINHFEKIQIIPK-SSWSDHEASSGVSSACPYQGTPSFFRNVVWLIKKNNTYPTIKRSYNNTNQEDLLILWGIHHSNDAAEQTKLYQNPTTYISVGTSTLNQRLVPKIATRSKVNGQSGRMDFFWTILKPNDAINFESNGNFIAPEYAYKIVKKGDSAIVKSEHHH
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

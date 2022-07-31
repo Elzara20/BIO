@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="E59A6460-109D-11ED-90A2-4F76C11EE0BF">
+    <matches>
+      <protein length="298">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF00089.29" id="Trypsin" type="Pfam-A" class="Domain">
+            START=31 END=280
+              <hmm>
+                <![CDATA[ivggeeaqkgsfpwqvslsvksg.khlCgGslisenwvlTAaHCvsn........asdvkvvlgehnlkksegkeqklkvek.vivhpnynpst.ldnDiallklkepvklgdtvrpiclpa...assslpvgttclvsGwgr...tkekg....ksdtlqevevpvvsretcksaykgkvtenmlcagak..egg.kdacqGDSGGPlvcsdg.....elvGivswgkgcakgnrpgvytkvssyldwi]]>
+              </hmm>
+              <match_string>
+                <![CDATA[iv+g++a++g +pwqv+l +ks+ ++lCg+slis++wvlTAaHC+          ++d+ v++g+h+++++e + +k+++ + +++hp+yn ++ ld+Dial+klk+pv ++d+++p+clp+   a s l++g +  v+Gwg+   t++ +    ++++lq v++p+v+r  ck + + ++t+nm+cag+k  eg+  dac+GDSGGP+v+++      +++Givswg+gc++++++g+yt+v ++++wi]]>
+              </match_string>
+              <pp>
+                <![CDATA[89************************************************99999999999*************888887666***********88**************************99555556*************777444447799********************99999***********9877789***************************************************9]]>
+              </pp>
+              <seq>
+                <![CDATA[IVEGSDAEIGMSPWQVMLFRKSPqELLCGASLISDRWVLTAAHCLLYppwdknftENDLLVRIGKHSRTRYERNIEKISMLEkIYIHPRYNWREnLDRDIALMKLKKPVAFSDYIHPVCLPDretAASLLQAGYKGRVTGWGNlkeTWTANvgkgQPSVLQVVNLPIVERPVCKDSTRIRITDNMFCAGYKpdEGKrGDACEGDSGGPFVMKSPfnnrwYQMGIVSWGEGCDRDGKYGFYTHVFRLKKWI]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       ivggeeaqkgsfpwqvslsvksg.khlCgGslisenwvlTAaHCvsn........asdvkvvlgehnlkksegkeqklkvek.vivhpnynpst.ldnDiallklkepvklgdtvrpiclpa...assslpvgttclvsGwgr...tkekg....ksdtlqevevpvvsretcksaykgkvtenmlcagak..egg.kdacqGDSGGPlvcsdg.....elvGivswgkgcakgnrpgvytkvssyldwi
+#MATCH     iv+g++a++g +pwqv+l +ks+ ++lCg+slis++wvlTAaHC+          ++d+ v++g+h+++++e + +k+++ + +++hp+yn ++ ld+Dial+klk+pv ++d+++p+clp+   a s l++g +  v+Gwg+   t++ +    ++++lq v++p+v+r  ck + + ++t+nm+cag+k  eg+  dac+GDSGGP+v+++      +++Givswg+gc++++++g+yt+v ++++wi
+#PP        89************************************************99999999999*************888887666***********88**************************99555556*************777444447799********************99999***********9877789***************************************************9
+#SEQ       IVEGSDAEIGMSPWQVMLFRKSPqELLCGASLISDRWVLTAAHCLLYppwdknftENDLLVRIGKHSRTRYERNIEKISMLEkIYIHPRYNWREnLDRDIALMKLKKPVAFSDYIHPVCLPDretAASLLQAGYKGRVTGWGNlkeTWTANvgkgQPSVLQVVNLPIVERPVCKDSTRIRITDNMFCAGYKpdEGKrGDACEGDSGGPFVMKSPfnnrwYQMGIVSWGEGCDRDGKYGFYTHVFRLKKWI
+                ]]>
+              </raw>
+            </location>
+          </match>
+          <match accession="PF09396.13" id="Thrombin_light" type="Pfam-A" class="Domain">
+            START=1 END=30
+              <hmm>
+                <![CDATA[adCGlRPLFEkkskkDktEkeLLeSYiegR]]>
+              </hmm>
+              <match_string>
+                <![CDATA[adCGlRPLFEkks +DktE+eLLeSYi+gR]]>
+              </match_string>
+              <pp>
+                <![CDATA[7****************************9]]>
+              </pp>
+              <seq>
+                <![CDATA[ADCGLRPLFEKKSLEDKTERELLESYIDGR]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       adCGlRPLFEkkskkDktEkeLLeSYiegR
+#MATCH     adCGlRPLFEkks +DktE+eLLeSYi+gR
+#PP        7****************************9
+#SEQ       ADCGLRPLFEKKSLEDKTERELLESYIDGR
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

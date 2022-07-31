@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="831AA0F2-10A7-11ED-94E8-1B279FF39757">
+    <matches>
+      <protein length="174">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF00210.27" id="Ferritin" type="Pfam-A" class="Domain">
+            START=14 END=155
+              <hmm>
+                <![CDATA[aaLneqladeltaayqylamawyvk..gpgleglaeffdeqaeeerehadklaerilelGgtPvltraeleeieappe..fgsveevleaalehekkvteslrelielaeeegDpatadfl.edfleeqeeheweleallekleri]]>
+              </hmm>
+              <match_string>
+                <![CDATA[aa+n+q++ el+a+y yl+m+ y++  ++ l+++a++f +q++eereha+kl++ ++++Gg     r+ l++i++p++  ++s + ++e+al++ek v++sl el++la +++Dp+++df+ + +l eq+++++el +++++l+++]]>
+              </match_string>
+              <pp>
+                <![CDATA[79***********************************************************.....*******************************************************999*******************987]]>
+              </pp>
+              <seq>
+                <![CDATA[AAINRQINLELYASYVYLSMSCYFDrdDVALKNFAKYFLHQSHEEREHAEKLMKLQNQRGG-----RIFLQDIKKPDRddWESGLNAMECALHLEKSVNQSLLELHKLATDKNDPHLCDFIeTYYLSEQVKSIKELGDHVTNLRKM]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       aaLneqladeltaayqylamawyvk..gpgleglaeffdeqaeeerehadklaerilelGgtPvltraeleeieappe..fgsveevleaalehekkvteslrelielaeeegDpatadfl.edfleeqeeheweleallekleri
+#MATCH     aa+n+q++ el+a+y yl+m+ y++  ++ l+++a++f +q++eereha+kl++ ++++Gg     r+ l++i++p++  ++s + ++e+al++ek v++sl el++la +++Dp+++df+ + +l eq+++++el +++++l+++
+#PP        79***********************************************************.....*******************************************************999*******************987
+#SEQ       AAINRQINLELYASYVYLSMSCYFDrdDVALKNFAKYFLHQSHEEREHAEKLMKLQNQRGG-----RIFLQDIKKPDRddWESGLNAMECALHLEKSVNQSLLELHKLATDKNDPHLCDFIeTYYLSEQVKSIKELGDHVTNLRKM
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

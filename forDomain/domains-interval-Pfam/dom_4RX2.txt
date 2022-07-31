@@ -1,8 +1,0 @@
-            START=21 END=240
-            START=286 END=505
-            START=551 END=770
-            START=816 END=1035
-            START=1081 END=1300
-            START=1346 END=1565
-            START=1611 END=1830
-            START=1876 END=2095

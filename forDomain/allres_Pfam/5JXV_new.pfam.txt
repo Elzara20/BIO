@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="1B7FD356-10A5-11ED-B2A0-F8269FF39757">
+    <matches>
+      <protein length="56">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF01378.20" id="IgG_binding_B" type="Pfam-A" class="Domain">
+            START=1 END=56
+              <hmm>
+                <![CDATA[YklvyitqntkgkngattvkAssaEeAeeYFknyvnengLGdLeWsYDeetkTFtare]]>
+              </hmm>
+              <match_string>
+                <![CDATA[Ykl+    n k   g tt +A  a  Ae+ Fk+y+n+ng  d eW+YD++tkTFt++e]]>
+              </match_string>
+              <pp>
+                <![CDATA[78888...78888899999********************8.88*************97]]>
+              </pp>
+              <seq>
+                <![CDATA[YKLIL---NGKTLKGETTTEAVDAATAEKVFKQYANDNGV-DGEWTYDDATKTFTVTE]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       YklvyitqntkgkngattvkAssaEeAeeYFknyvnengLGdLeWsYDeetkTFtare
+#MATCH     Ykl+    n k   g tt +A  a  Ae+ Fk+y+n+ng  d eW+YD++tkTFt++e
+#PP        78888...78888899999********************8.88*************97
+#SEQ       YKLIL---NGKTLKGETTTEAVDAATAEKVFKQYANDNGV-DGEWTYDDATKTFTVTE
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

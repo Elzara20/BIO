@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="B7612904-10A1-11ED-9B83-8176C11EE0BF">
+    <matches>
+      <protein length="321">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF12974.10" id="Phosphonate-bd" type="Pfam-A" class="Family">
+            START=18 END=263
+              <hmm>
+                <![CDATA[igvlPsespaelkeayqpladyLseelGvevelvvatdyaavvealragqvDlaffgplayvqardqagveplatrvrpdGsasyrsviivrkdsgiqsledL....kgkkvafvspsstsGylvpaalLvkeagldpekdfsevfsgshdaavlavlrgdadaaavnadaledlvaegpvekdelrviassppipndpvvvskelsdelkekiqdallslaeteegkkvlealgiegfvpadd]]>
+              </hmm>
+              <match_string>
+                <![CDATA[+g++++es+++lk ++ p+++ ++++lGv+v++++a dya++++++r ++vD+a+ g+l++++a+d+a+ +++a+ v+ dGs++y sv+iv+kds+i++l+dL    k+ +++ ++p+stsG+lvp ++ ++++++  ++ f+++ + + ++++lav+++++d+a+ n+++l++l+ + p++ +el+vi++sp ip+dp+v++k+ls+ +k+ki d+++++++t+e+k+vle+lg++ f + +d]]>
+              </match_string>
+              <pp>
+                <![CDATA[89*******************************************************************************************************99999***************************885.577767779****************************************************************************************999876]]>
+              </pp>
+              <seq>
+                <![CDATA[FGIISTESQQNLKPQWTPFLQDMEKKLGVKVNAFFAPDYAGIIQGMRFNKVDIAWYGNLSAMEAVDRANGQVFAQTVAADGSPGYWSVLIVNKDSPINNLNDLlakrKDLTFGNGDPNSTSGFLVPGYYVFAKNNISASD-FKRTVNAGAETNALAVANKQVDVATNNTENLDKLKTSAPEKLKELKVIWKSPLIPGDPIVWRKNLSETTKDKIYDFFMNYGKTPEEKAVLERLGWAPFRASSD]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       igvlPsespaelkeayqpladyLseelGvevelvvatdyaavvealragqvDlaffgplayvqardqagveplatrvrpdGsasyrsviivrkdsgiqsledL....kgkkvafvspsstsGylvpaalLvkeagldpekdfsevfsgshdaavlavlrgdadaaavnadaledlvaegpvekdelrviassppipndpvvvskelsdelkekiqdallslaeteegkkvlealgiegfvpadd
+#MATCH     +g++++es+++lk ++ p+++ ++++lGv+v++++a dya++++++r ++vD+a+ g+l++++a+d+a+ +++a+ v+ dGs++y sv+iv+kds+i++l+dL    k+ +++ ++p+stsG+lvp ++ ++++++  ++ f+++ + + ++++lav+++++d+a+ n+++l++l+ + p++ +el+vi++sp ip+dp+v++k+ls+ +k+ki d+++++++t+e+k+vle+lg++ f + +d
+#PP        89*******************************************************************************************************99999***************************885.577767779****************************************************************************************999876
+#SEQ       FGIISTESQQNLKPQWTPFLQDMEKKLGVKVNAFFAPDYAGIIQGMRFNKVDIAWYGNLSAMEAVDRANGQVFAQTVAADGSPGYWSVLIVNKDSPINNLNDLlakrKDLTFGNGDPNSTSGFLVPGYYVFAKNNISASD-FKRTVNAGAETNALAVANKQVDVATNNTENLDKLKTSAPEKLKELKVIWKSPLIPGDPIVWRKNLSETTKDKIYDFFMNYGKTPEEKAVLERLGWAPFRASSD
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

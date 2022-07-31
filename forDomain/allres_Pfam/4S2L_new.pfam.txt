@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="AF0A2E60-10A4-11ED-B2A0-F8269FF39757">
+    <matches>
+      <protein length="237">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF00905.25" id="Transpeptidase" type="Pfam-A" class="Domain">
+            START=9 END=231
+              <hmm>
+                <![CDATA[skpsydpnakvgkneplanravqsqyePGStfKvvtaaaaleagvlkpdetlddsggkiqggqsikdweqdnkgsegitlrealekSsntvfvklaqklgadklrkylkkfglGnktgidlpgesaGvptrkwlegatisfgiGltvTplqlaqayaaiangGklvkPhlvkaivdpdgvrkvkpkelnklpiskstaekvkeglkgvvsrgsgtataavegykvagKTGTAevagkkgggkkegakiswfvgyapadnpkyavavlieqpkeaaggkaaapiakeil]]>
+              </hmm>
+              <match_string>
+                <![CDATA[+++     +++g   + +++ +++ + P+StfK++ +++al+ gv+k+++++++++g+ ++   i  w++d+      +l +a+++S++ v++++a+++g+ +++k+l++f++Gn       + ++G ++++wl+g        + +++ +++++++++++                           nkl++s+  ++ vk+++ ++++ +          y +++KTG   ++g             w+vg+++ d++++ +a++++ p+ ++g + +++i ke+l]]>
+              </match_string>
+              <pp>
+                <![CDATA[332.....2222..2234455999*********************************9988...*******9......*************************************.......889999999****99.......*****************...........................************************..........*********99998.............***********************.************998]]>
+              </pp>
+              <seq>
+                <![CDATA[NEN-----KQQG--FTNNLKRANQAFLPASTFKIPNSLIALDLGVVKDEHQVFKWDGQTRD---IATWNRDH------NLITAMKYSVVPVYQEFARQIGEARMSKMLHAFDYGN-------EDISGNVDSFWLDGG-------IRISATEQISFLRKLYH---------------------------NKLHVSERSQRIVKQAMLTEANGD----------YIIRAKTGYDTKIG-------------WWVGWVELDDNVWFFAMNMDMPT-SDGLGLRQAITKEVL]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       skpsydpnakvgkneplanravqsqyePGStfKvvtaaaaleagvlkpdetlddsggkiqggqsikdweqdnkgsegitlrealekSsntvfvklaqklgadklrkylkkfglGnktgidlpgesaGvptrkwlegatisfgiGltvTplqlaqayaaiangGklvkPhlvkaivdpdgvrkvkpkelnklpiskstaekvkeglkgvvsrgsgtataavegykvagKTGTAevagkkgggkkegakiswfvgyapadnpkyavavlieqpkeaaggkaaapiakeil
+#MATCH     +++     +++g   + +++ +++ + P+StfK++ +++al+ gv+k+++++++++g+ ++   i  w++d+      +l +a+++S++ v++++a+++g+ +++k+l++f++Gn       + ++G ++++wl+g        + +++ +++++++++++                           nkl++s+  ++ vk+++ ++++ +          y +++KTG   ++g             w+vg+++ d++++ +a++++ p+ ++g + +++i ke+l
+#PP        332.....2222..2234455999*********************************9988...*******9......*************************************.......889999999****99.......*****************...........................************************..........*********99998.............***********************.************998
+#SEQ       NEN-----KQQG--FTNNLKRANQAFLPASTFKIPNSLIALDLGVVKDEHQVFKWDGQTRD---IATWNRDH------NLITAMKYSVVPVYQEFARQIGEARMSKMLHAFDYGN-------EDISGNVDSFWLDGG-------IRISATEQISFLRKLYH---------------------------NKLHVSERSQRIVKQAMLTEANGD----------YIIRAKTGYDTKIG-------------WWVGWVELDDNVWFFAMNMDMPT-SDGLGLRQAITKEVL
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

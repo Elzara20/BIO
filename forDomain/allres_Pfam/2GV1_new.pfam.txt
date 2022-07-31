@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="9A70DD10-109E-11ED-AB0D-9A259FF39757">
+    <matches>
+      <protein length="92">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF00708.21" id="Acylphosphatase" type="Pfam-A" class="Domain">
+            START=6 END=91
+              <hmm>
+                <![CDATA[llvtGrVQgvgFRkfvrrlAkklglkGyvrNlsdgsVeivvegeeeklekfleelksgppa.arvdeveveeleseeefsdFei]]>
+              </hmm>
+              <match_string>
+                <![CDATA[++v+GrVQgvgFR +++ +Ak+lgl+Gy++Nl+dgsVe+v+ gee ++ek++++lksg p+ arv++v  e+    +e +dF+i]]>
+              </match_string>
+              <pp>
+                <![CDATA[589******************************************************77777********************98]]>
+              </pp>
+              <seq>
+                <![CDATA[AWVYGRVQGVGFRYTTQYEAKRLGLTGYAKNLDDGSVEVVACGEEGQVEKLMQWLKSGGPRsARVERVLSEPHHPSGELTDFRI]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       llvtGrVQgvgFRkfvrrlAkklglkGyvrNlsdgsVeivvegeeeklekfleelksgppa.arvdeveveeleseeefsdFei
+#MATCH     ++v+GrVQgvgFR +++ +Ak+lgl+Gy++Nl+dgsVe+v+ gee ++ek++++lksg p+ arv++v  e+    +e +dF+i
+#PP        589******************************************************77777********************98
+#SEQ       AWVYGRVQGVGFRYTTQYEAKRLGLTGYAKNLDDGSVEVVACGEEGQVEKLMQWLKSGGPRsARVERVLSEPHHPSGELTDFRI
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

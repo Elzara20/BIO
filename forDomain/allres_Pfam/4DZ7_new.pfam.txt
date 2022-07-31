@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="6CA85206-10A2-11ED-AFC9-40BF9C0AC6AE">
+    <matches>
+      <protein length="260">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF00194.24" id="Carb_anhydrase" type="Pfam-A" class="Domain">
+            START=11 END=259
+              <hmm>
+                <![CDATA[sgpekWkekypacggkrQSPInIetkkakydsslkplefegydekkksltlennghtvqvelee.kekveisggpleeeeYrleqfhfHWgsssskGSEHtidgkrypaElhivhynskyksleeaakepdglavlgvllevgkeeeneeleklvsslkkikkkgksttlaslslsdLlpsedltkYytYeGSLTtPpcsesVtWivfkepieiseeqlekfrkllseeeeee.kplknnfRpvqplngRkvrasf]]>
+              </hmm>
+              <match_string>
+                <![CDATA[+gpe+W++++p ++g+rQSP++I+t++akyd+slkpl+++ yd++ +sl++ nngh ++ve+++ ++k+ ++ggpl++ +Yrl qfhfHWgs + +GSEHt+d+k+y+aElh+vh+n+ky+++ +a+++pdglavlg++l+vg++  +++l+k+v+ l++ik+kgks+++++++++ Llp  ++ +Y+tY GSLTtPp+ e+VtWiv+kepi++s+eq+ kfrkl ++ e+e  + +++n+Rp qpl++R+++asf]]>
+              </match_string>
+              <pp>
+                <![CDATA[58*************************************7.**66.55****************99**********75.7*************99***********************************************998..79*******************************..3459******************************************99988899****************9986]]>
+              </pp>
+              <seq>
+                <![CDATA[NGPEHWHKDFPIAKGERQSPVDIDTHTAKYDPSLKPLSVS-YDQA-TSLRILNNGHAFNVEFDDsQDKAVLKGGPLDG-TYRLIQFHFHWGSLDGQGSEHTVDKKKYAAELHLVHWNTKYGDFGKAVQQPDGLAVLGIFLKVGSA--KPGLQKVVDVLDSIKTKGKSADFTNFDPRGLLP--ESLDYWTYPGSLTTPPLLECVTWIVLKEPISVSSEQVLKFRKLNFNGEGEPeELMVDNWRPAQPLKNRQIKASF]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       sgpekWkekypacggkrQSPInIetkkakydsslkplefegydekkksltlennghtvqvelee.kekveisggpleeeeYrleqfhfHWgsssskGSEHtidgkrypaElhivhynskyksleeaakepdglavlgvllevgkeeeneeleklvsslkkikkkgksttlaslslsdLlpsedltkYytYeGSLTtPpcsesVtWivfkepieiseeqlekfrkllseeeeee.kplknnfRpvqplngRkvrasf
+#MATCH     +gpe+W++++p ++g+rQSP++I+t++akyd+slkpl+++ yd++ +sl++ nngh ++ve+++ ++k+ ++ggpl++ +Yrl qfhfHWgs + +GSEHt+d+k+y+aElh+vh+n+ky+++ +a+++pdglavlg++l+vg++  +++l+k+v+ l++ik+kgks+++++++++ Llp  ++ +Y+tY GSLTtPp+ e+VtWiv+kepi++s+eq+ kfrkl ++ e+e  + +++n+Rp qpl++R+++asf
+#PP        58*************************************7.**66.55****************99**********75.7*************99***********************************************998..79*******************************..3459******************************************99988899****************9986
+#SEQ       NGPEHWHKDFPIAKGERQSPVDIDTHTAKYDPSLKPLSVS-YDQA-TSLRILNNGHAFNVEFDDsQDKAVLKGGPLDG-TYRLIQFHFHWGSLDGQGSEHTVDKKKYAAELHLVHWNTKYGDFGKAVQQPDGLAVLGIFLKVGSA--KPGLQKVVDVLDSIKTKGKSADFTNFDPRGLLP--ESLDYWTYPGSLTTPPLLECVTWIVLKEPISVSSEQVLKFRKLNFNGEGEPeELMVDNWRPAQPLKNRQIKASF
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

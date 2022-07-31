@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="BA81144C-10A0-11ED-8AA5-98269FF39757">
+    <matches>
+      <protein length="164">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF00994.27" id="MoCF_biosynth" type="Pfam-A" class="Domain">
+            START=5 END=148
+              <hmm>
+                <![CDATA[avitvGdellsgkieDtngpllaellkelgvevskyevvpDdeeeikeallaaleea..dviittGGtGptpdDvtpealaklfekelegfeeafrrvslkpgkpvgvapgailsrav....gkt.ivgLPGspkavkeafeeillpaleh]]>
+              </hmm>
+              <match_string>
+                <![CDATA[+++tv+d+ ++g+++Dt+   + e l+   +ev++ye+vpD++  ik+ l+ +++++  d+i+t GGtG++p+D tpea+++l+++e++g++e++r v+l+       +p+a lsr+v    g+t i++LPGspk ++e +e +l p+l+h]]>
+              </match_string>
+              <pp>
+                <![CDATA[69************************************************777777779******************************************......79999*********9778688*****************.**997]]>
+              </pp>
+              <seq>
+                <![CDATA[GILTVSDKGFRGERQDTTHLAIREVLAGGPFEVAAYELVPDEPPMIKKVLRLWADREglDLILTNGGTGLAPRDRTPEATRELLDREVPGLAELMRLVGLR------KTPMAALSRGVagvrGRTlILNLPGSPKGARESLEAVL-PVLPH]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       avitvGdellsgkieDtngpllaellkelgvevskyevvpDdeeeikeallaaleea..dviittGGtGptpdDvtpealaklfekelegfeeafrrvslkpgkpvgvapgailsrav....gkt.ivgLPGspkavkeafeeillpaleh
+#MATCH     +++tv+d+ ++g+++Dt+   + e l+   +ev++ye+vpD++  ik+ l+ +++++  d+i+t GGtG++p+D tpea+++l+++e++g++e++r v+l+       +p+a lsr+v    g+t i++LPGspk ++e +e +l p+l+h
+#PP        69************************************************777777779******************************************......79999*********9778688*****************.**997
+#SEQ       GILTVSDKGFRGERQDTTHLAIREVLAGGPFEVAAYELVPDEPPMIKKVLRLWADREglDLILTNGGTGLAPRDRTPEATRELLDREVPGLAELMRLVGLR------KTPMAALSRGVagvrGRTlILNLPGSPKGARESLEAVL-PVLPH
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

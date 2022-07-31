@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="DFDB8750-109F-11ED-8BFE-1B269FF39757">
+    <matches>
+      <protein length="177">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF01661.24" id="Macro" type="Pfam-A" class="Domain">
+            START=41 END=148
+              <hmm>
+                <![CDATA[VnaaNsrllggggvagaihraagkalkeeckelekkqggcllGeavvtpaynlpakyvihavgplftssgskeeeellekayknalelaeekgiksvafPaistGifgvpweeaae]]>
+              </hmm>
+              <match_string>
+                <![CDATA[VnaaN+++++gggva+ai+  +g+++ e+c ++ kk+g+    + +vtp++   +++v ++vgp+    g+ +  e+l++ayk++l      g+ + ++P +s+Gifgv+++ + +]]>
+              </match_string>
+              <pp>
+                <![CDATA[9********************************999997...999*******************98...79999***********6....56788889************998766]]>
+              </pp>
+              <seq>
+                <![CDATA[VNAANEHMSHGGGVAKAIADFCGPDFVEYCADYVKKHGP---QQKLVTPSFVKGIQCVNNVVGPRH---GDSNLREKLVAAYKSVL----VGGVVNYVVPVLSSGIFGVDFKISID]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       VnaaNsrllggggvagaihraagkalkeeckelekkqggcllGeavvtpaynlpakyvihavgplftssgskeeeellekayknalelaeekgiksvafPaistGifgvpweeaae
+#MATCH     VnaaN+++++gggva+ai+  +g+++ e+c ++ kk+g+    + +vtp++   +++v ++vgp+    g+ +  e+l++ayk++l      g+ + ++P +s+Gifgv+++ + +
+#PP        9********************************999997...999*******************98...79999***********6....56788889************998766
+#SEQ       VNAANEHMSHGGGVAKAIADFCGPDFVEYCADYVKKHGP---QQKLVTPSFVKGIQCVNNVVGPRH---GDSNLREKLVAAYKSVL----VGGVVNYVVPVLSSGIFGVDFKISID
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

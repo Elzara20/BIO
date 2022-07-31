@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pfam xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/pfam_family.xsd"
+      release="35.0"
+      release_date="2021-11-04">
+  <results job_id="214C7714-10A3-11ED-8059-97269FF39757">
+    <matches>
+      <protein length="208">
+        <database id="pfam" release="35.0" release_date="2021-11-04">
+          <match accession="PF07501.15" id="G5" type="Pfam-A" class="Domain">
+            START=5 END=80
+              <hmm>
+                <![CDATA[teeeeipfetetkeDpslpegeekVvqeGkpGvkevtyrvtye..nGkevsrevvseevvkepvpkvvkvG]]>
+              </hmm>
+              <match_string>
+                <![CDATA[t +eeipf+ +++ Dp+++ g+ekVvq+G+pG+k++t+ +t++   G++v++ + +e+++k+pv+++v++G]]>
+              </match_string>
+              <pp>
+                <![CDATA[899***********************************99998999************************9]]>
+              </pp>
+              <seq>
+                <![CDATA[TSTEEIPFDKKREFDPNMAPGTEKVVQKGEPGTKTITTPTTKNpmTGEKVGEGEPTEKITKQPVDEIVHYG]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       teeeeipfetetkeDpslpegeekVvqeGkpGvkevtyrvtye..nGkevsrevvseevvkepvpkvvkvG
+#MATCH     t +eeipf+ +++ Dp+++ g+ekVvq+G+pG+k++t+ +t++   G++v++ + +e+++k+pv+++v++G
+#PP        899***********************************99998999************************9
+#SEQ       TSTEEIPFDKKREFDPNMAPGTEKVVQKGEPGTKTITTPTTKNpmTGEKVGEGEPTEKITKQPVDEIVHYG
+                ]]>
+              </raw>
+            </location>
+            START=133 END=208
+              <hmm>
+                <![CDATA[vteeeeipfetetkeDpslpegeekVvqeGkpGvkevtyrvtye..nGkevsrevvseevvkepvpkvvkvGT]]>
+              </hmm>
+              <match_string>
+                <![CDATA[ t +eeipf+ +++ Dp+++ g+ekVvq+G+pG+k++t+ +t++   G++v++   +e+v+k+pv+++v++G ]]>
+              </match_string>
+              <pp>
+                <![CDATA[6899************************************9998999************************95]]>
+              </pp>
+              <seq>
+                <![CDATA[ITSTEEIPFDKKREFDPNMAPGTEKVVQKGEPGTKTITTPTTKNpmTGEKVGEGKSTEKVTKQPVDEIVEYGP]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       vteeeeipfetetkeDpslpegeekVvqeGkpGvkevtyrvtye..nGkevsrevvseevvkepvpkvvkvGT
+#MATCH      t +eeipf+ +++ Dp+++ g+ekVvq+G+pG+k++t+ +t++   G++v++   +e+v+k+pv+++v++G 
+#PP        6899************************************9998999************************95
+#SEQ       ITSTEEIPFDKKREFDPNMAPGTEKVVQKGEPGTKTITTPTTKNpmTGEKVGEGKSTEKVTKQPVDEIVEYGP
+                ]]>
+              </raw>
+            </location>
+          </match>
+          <match accession="PF17041.8" id="SasG_E" type="Pfam-A" class="Domain">
+            START=81 END=128
+              <hmm>
+                <![CDATA[kikqGHkDeFDPnlPtdskeevPGKPGvKnPdtGevvtpPvDdvtKyG]]>
+              </hmm>
+              <match_string>
+                <![CDATA[+i+qGHkDeFDPn+P+dsk+evPGKPGvKnPdtGevvtpPvDdvtKyG]]>
+              </match_string>
+              <pp>
+                <![CDATA[79*********************************************9]]>
+              </pp>
+              <seq>
+                <![CDATA[QIPQGHKDEFDPNAPVDSKTEVPGKPGVKNPDTGEVVTPPVDDVTKYG]]>
+              </seq>
+              <raw>
+                <![CDATA[
+#HMM       kikqGHkDeFDPnlPtdskeevPGKPGvKnPdtGevvtpPvDdvtKyG
+#MATCH     +i+qGHkDeFDPn+P+dsk+evPGKPGvKnPdtGevvtpPvDdvtKyG
+#PP        79*********************************************9
+#SEQ       QIPQGHKDEFDPNAPVDSKTEVPGKPGVKNPDTGEVVTPPVDDVTKYG
+                ]]>
+              </raw>
+            </location>
+          </match>
+        </database>
+      </protein>
+    </matches>
+  </results>
+</pfam>

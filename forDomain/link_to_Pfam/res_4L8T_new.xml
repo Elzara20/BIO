@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="https://pfam.xfam.org/"
+      xsi:schemaLocation="https://pfam.xfam.org/
+                          https://pfam.xfam.org/static/documents/schemas/submission.xsd">
+  <job job_id="8DA8AC70-10A3-11ED-8410-62BF9C0AC6AE">
+    <opened>2022-07-31T08:36:56</opened>
+    <result_url>/search/sequence/resultset/8DA8AC70-10A3-11ED-8410-62BF9C0AC6AE?output=xml</result_url>
+  </job>
+</jobs>
+
