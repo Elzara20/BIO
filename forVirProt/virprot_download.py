@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1Fmzq1r_IAg13TtWYqo5nM0cecRmI_M-s
 """
 
-!pip install biopython
 
 import sys
 import Bio
@@ -37,16 +36,16 @@ warnings.filterwarnings('ignore')
 
 """
 
-!git clone https://github.com/williamgilpin/pypdb.git
+
 
 print("Текущая директория:", os.getcwd())
-os.chdir("/content/pypdb")
+os.chdir("/home/elzara/pypdb/pypdb")
 print("Текущая директория изменилась:", os.getcwd())
-
-from pypdb.clients.search.search_client import perform_search_with_graph
-from pypdb.clients.search.search_client import ReturnType
-from pypdb.clients.search.search_client import QueryGroup, LogicalOperator
-from pypdb.clients.search.operators import text_operators
+from pypdb.pypdb import *
+from pypdb.pypdb.clients.search.search_client import perform_search_with_graph
+from pypdb.pypdb.clients.search.search_client import ReturnType
+from pypdb.pypdb.clients.search.search_client import QueryGroup, LogicalOperator
+from pypdb.pypdb.clients.search.operators import text_operators
 from pypdb import *
 return_type = ReturnType.ENTRY
 
@@ -101,25 +100,25 @@ def download_fasta(fastacode, datadir, downloadurl="https://www.rcsb.org/fasta/e
         return str(err) #None
 
 def pdb_and_fasta(i_results):
-  if download_pdb(i_results, '/content/V_PROTEINS/pdb/') == 'HTTP Error 404: Not Found':
+  if download_pdb(i_results, '/home/elzara/V_PROTEINS/pdb/') == 'HTTP Error 404: Not Found':
     print(f'Нет pdb файла для белка {i_results}')
-  elif download_fasta(i_results, '/content/V_PROTEINS/fasta/') == 'HTTP Error 404: Not Found':
+  elif download_fasta(i_results, '/home/elzara/V_PROTEINS/fasta/') == 'HTTP Error 404: Not Found':
     print(f'Нет fasta файла для белка {i_results}')
   else:
-    download_pdb(i_results, '/content/V_PROTEINS/pdb/')
-    download_fasta(i_results, '/content/V_PROTEINS/fasta/')
+    download_pdb(i_results, '/home/elzara/V_PROTEINS/pdb/')
+    download_fasta(i_results, '/home/elzara/V_PROTEINS/fasta/')
 
 def only_fasta(i_results):
-  if download_fasta(i_results, '/content/V_PROTEINS/fasta/') == 'HTTP Error 404: Not Found':
+  if download_fasta(i_results, '/home/elzara/V_PROTEINS/fasta/') == 'HTTP Error 404: Not Found':
     print(f'Нет fasta файла для белка {i_results}')
   else:
-    download_fasta(i_results, '/content/V_PROTEINS/fasta/')
+    download_fasta(i_results, '/home/elzara/V_PROTEINS/fasta/')
 
 def only_pdb(i_results):
-  if download_pdb(i_results, '/content/V_PROTEINS/pdb/') == 'HTTP Error 404: Not Found':
+  if download_pdb(i_results, '/home/elzara/V_PROTEINS/pdb/') == 'HTTP Error 404: Not Found':
     print(f'Нет fasta файла для белка {i_results}')
   else:
-    download_pdb(i_results, '/content/V_PROTEINS/pdb/')
+    download_pdb(i_results, '/home/elzara/V_PROTEINS/pdb/')
 
 
 Parallel(n_jobs=-1, backend='threading')(delayed(pdb_and_fasta)(i_results) 
