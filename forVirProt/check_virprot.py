@@ -43,18 +43,20 @@ def del_fasta(entity, FASTAFile): # формируем фаста файл из 
 
 def del_pdb(chains, PDBFile): # удаляем ненужное
   parser = PDBParser()
-  structure = parser.get_structure("",PDBFile)
+  print(PDBFile)
+  structure = parser.get_structure("",f"{PDBFile}")
   for model in structure:
-    for chain in model:
-      if(chain.id in chains): #=='B' or chain.id=='H' or chain.id=='C' or chain.id=='L'):
-        model.detach_child(chain.id)
+    for i in range(len(chains)): #=='B' or chain.id=='H' or chain.id=='C' or chain.id=='L'):
+      model.detach_child(chains[i])
+        
+  print(f'counter={counter}')
   w = PDBIO()
   w.set_structure(structure)
   w.save(f'/content/V_PROTEINS/newpdb/new{PDBFile[-8:]}')
-# del_pdb(['H', 'B', 'L', 'C'], '/content/V_PROTEINS/pdb/4YC2.pdb')
+# del_pdb(['2', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'n'], '/content/V_PROTEINS/pdb/7SYP.pdb')
 
 def chain_formation(chains):  
-  res=re.findall('[A-Z]', str(chains))
+  res=re.findall('[A-Za-z0-9]', str(chains))
   return res
 
 API_KEY = '86bda4dcbf604e13e46df647f88b71fa3e09'
@@ -63,19 +65,15 @@ path = '/content/V_PROTEINS/pdb/*'
 for file in glob.glob(path):
   chains_for_del=[]
   entity_for_del=[]
-  # print(file[-8:-4])
+
   pdb_file = get_pdb_file(file[-8:-4], filetype='pdb', compression=False)
-  # print(f'{file} => {pdb_file}')
   id_taxonomy_keys=re.findall('ORGANISM_TAXID: ([0-9]+);', str(pdb_file))
-  chain=re.findall('CHAIN: ([A-Z, ,]+,*);', str(pdb_file))
-  print(chain)
+  chain=re.findall('CHAIN: ([A-Z,a-z,0-9, ,]+,*);', str(pdb_file))
   for number, id in enumerate(id_taxonomy_keys):
     url = f'https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db={db}&id={id}&api_key={API_KEY}'
     res = requests.get(url)
     taxseq=re.findall('<Lineage>(.+)</Lineage>', str(res.text))
-    # print(taxseq)
     find_word=re.findall('virus[a-z]*|viri[a-z]+', str(taxseq))
-    # print(f'find_word={find_word}')
     counter=0
     if len(find_word)==0:
       print(f'NOT VIRUS: {file[-8:-4]}_{number+1}')
