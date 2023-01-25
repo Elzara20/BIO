@@ -1,0 +1,162 @@
+7MY2
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7CN4
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin
+7CN4
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+1U5M
+find pattern = [('', '', 'Collagen', '', '')]
+name = Collagen, type I, alpha 1
+7V26
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+1BNL
+find pattern = [('', '', 'collagen', '', '')]
+name = collagen alpha-1(XVIII) chain isoform X1
+1BNL
+find pattern = [('', '', 'Collagen', '', '')]
+name = Collagenase NC10 and Endostatin
+7M5E
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7M5E
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin
+7VXF
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+5X59
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin
+5X59
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+5JQB
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin
+5JQB
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7L56
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7SN3
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7V7O
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin
+7V7O
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen C-terminal domain-like
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen C-terminal domain-like
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen C-terminal domain profile.
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Gamma Fibrinogen, chain A, domain 1
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen beta chain
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen beta and gamma chains, C-terminal globular domain
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen beta and gamma chains, C-terminal globular domain
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen C-terminal domain profile.
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen gamma chain
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen coiled-coil and central regions
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen coiled-coil and central regions
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen gamma chain
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen alpha/beta chain family
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen alpha/beta chain family
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen alpha/beta chain family
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen coiled-coil and central regions
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen C-terminal domain signature.
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen beta chain
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Gamma Fibrinogen, chain A, domain 1
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen beta chain
+1FZE
+find pattern = [('Fibrinogen', '', '', '', '')]
+name = Fibrinogen C-terminal domain signature.
+7P7A
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7NS6
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7V8C
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7V8C
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin
+7KL9
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7TOV
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7Q6E
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+6QX9
+find pattern = [('fibrillarin', '', '', '', '')]
+name = snoRNA binding domain, fibrillarin
+7EDJ
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7EDJ
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin
+7TOY
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+7KDL
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+6XEY
+find pattern = [('Fibritin', '', '', '', '')]
+name = Fibritin C-terminal region
+3QC7
+find pattern = [('', 'fiber', '', '', '')]
+name = Head fiber protein
+FIBROUS PROTEINS
+['7MY2', '7CN4', '7CN4', '1U5M', '7V26', '1BNL', '1BNL', '7M5E', '7M5E', '7VXF', '5X59', '5X59', '5JQB', '5JQB', '7L56', '7SN3', '7V7O', '7V7O', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '1FZE', '7P7A', '7NS6', '7V8C', '7V8C', '7KL9', '7TOV', '7Q6E', '6QX9', '7EDJ', '7EDJ', '7TOY', '7KDL', '6XEY', '3QC7']
+count of fib_protein = 53
