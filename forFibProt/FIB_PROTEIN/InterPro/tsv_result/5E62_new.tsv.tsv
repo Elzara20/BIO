@@ -1,0 +1,14 @@
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	SUPERFAMILY	SSF49818	Viral protein domain	162	307	8.61E-28	T	24-01-2023	IPR008980	Viral capsid/haemagglutinin protein	GO:0019031|GO:0019064|GO:0046789	Reactome: R-HSA-168255|Reactome: R-HSA-168275|Reactome: R-HSA-168288|Reactome: R-HSA-168298|Reactome: R-HSA-168302|Reactome: R-HSA-168303|Reactome: R-HSA-168316|Reactome: R-HSA-168336|Reactome: R-HSA-168874|Reactome: R-HSA-192823|Reactome: R-HSA-198933
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	Phobius	TRANSMEMBRANE	Region of a membrane-bound protein predicted to be embedded in the membrane.	428	447	-	T	24-01-2023	-	-
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	SUPERFAMILY	SSF58064	Influenza hemagglutinin (stalk)	428	576	1.57E-49	T	24-01-2023	-	-
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	Pfam	PF00509	Haemagglutinin	432	573	5.7E-9	T	24-01-2023	IPR001364	Haemagglutinin, influenzavirus A/B	GO:0019031|GO:0019064|GO:0046789	Reactome: R-HSA-168255|Reactome: R-HSA-168275|Reactome: R-HSA-168288|Reactome: R-HSA-168298|Reactome: R-HSA-168302|Reactome: R-HSA-168303|Reactome: R-HSA-168316|Reactome: R-HSA-168336|Reactome: R-HSA-168874|Reactome: R-HSA-192823|Reactome: R-HSA-198933
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	Pfam	PF03996	Hemagglutinin esterase	32	404	7.9E-75	T	24-01-2023	IPR007142	Haemagglutinin-esterase glycoprotein, core	GO:0016788|GO:0019031|GO:0019064|GO:0046789	-
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	SUPERFAMILY	SSF52266	SGNH hydrolase	3	424	6.04E-72	T	24-01-2023	-	-
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	Phobius	CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the cytoplasm.	448	576	-	T	24-01-2023	-	-
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	Coils	Coil	Coil	490	510	-	T	24-01-2023	-	-
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	Phobius	NON_CYTOPLASMIC_DOMAIN	Region of a membrane-bound protein predicted to be outside the membrane, in the extracellular region.	1	427	-	T	24-01-2023	-	-
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	Pfam	PF08720	Influenza C hemagglutinin stalk	428	576	7.7E-52	T	24-01-2023	IPR014831	Haemagglutinin stalk, influenza C	GO:0019031|GO:0019064|GO:0046789	-
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	Gene3D	G3DSA:2.20.70.20	-	401	422	2.3E-6	T	24-01-2023	-	-
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	Gene3D	G3DSA:2.20.70.20	-	13	38	1.5E-11	T	24-01-2023	-	-
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	Gene3D	G3DSA:3.90.20.10	-	423	576	7.2E-85	T	24-01-2023	-	-
+sta/5E62	1fae04e05a934877436ae2ba920bfddf	576	Pfam	PF02710	Hemagglutinin domain of haemagglutinin-esterase-fusion glycoprotein	136	292	1.4E-27	T	24-01-2023	IPR003860	Haemagglutinin-esterase glycoprotein, haemagglutinin domain	GO:0016788|GO:0019031|GO:0019064|GO:0046789	-

@@ -1,0 +1,4 @@
+sta/4NAD	e9b737b52ea707de8499c907f6c17e32	154	Coils	Coil	Coil	90	124	-	T	24-01-2023	-	-
+sta/4NAD	e9b737b52ea707de8499c907f6c17e32	154	Gene3D	G3DSA:6.10.250.2560	-	4	133	1.4E-55	T	24-01-2023	-	-
+sta/4NAD	e9b737b52ea707de8499c907f6c17e32	154	Pfam	PF16566	Cell-cycle alteration and expression-elevated protein in tumour	6	152	2.8E-66	T	24-01-2023	IPR032337	Regulation of nuclear pre-mRNA domain-containing protein 1A/B	-	Reactome: R-BTA-6807505|Reactome: R-CEL-6807505|Reactome: R-HSA-6807505|Reactome: R-MMU-6807505
+sta/4NAD	e9b737b52ea707de8499c907f6c17e32	154	PANTHER	PTHR12460	CYCLIN-DEPENDENT KINASE INHIBITOR-RELATED PROTEIN	6	145	4.8E-11	T	24-01-2023	-	-
